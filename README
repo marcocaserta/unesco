@@ -11,9 +11,9 @@ needed documentation. Please:
 
 * read the summary.pdf file (available in this folder) for an overview of the
   project, the algorithm, and the rationale behind the choices made.
-* read the html documentation under docs/HTML for a detailed presentation of
-  the code structure, the data structure, and other issues related to the
-  implementation.
+* open the index.html file in your browser to access the project documentation 
+  under docs/html for a detailed presentation of the code structure, the data 
+  structure, and other issues related to the implementation.
 
 The code can be run using:
 
@@ -24,6 +24,11 @@ the algorithm is in "deterministic" mode.) Use the flag "-h" to explore how to
 change the command line options. For example, to define a location, use:
 
 > java -jar unesco.jar -l <latitude> -L <longitude> -s <stochastic>
+
+If you want to run the stochastic version of the algorithm, change the flag
+'-s' to 1, i.e.:
+
+> java -jar unesco.jar -l <latitude> -L <longitude> -s 1
 
 
 UNITTESTS
