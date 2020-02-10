@@ -1,0 +1,1122 @@
+unique_number,id_no,name_en,danger,longitude,latitude,category_short,states_name_en,iso_code
+230,208,Cultural Landscape and Archaeological Remains of the Bamiyan Valley,1,67.82525,34.84694,C,Afghanistan,af
+234,211,Minaret and Archaeological Remains of Jam,1,64.5158888889,34.3964166667,C,Afghanistan,af
+1590,569,Historic Centres of Berat and Gjirokastra ,0,20.13333333,40.06944444,C,Albania,al
+1563,570,Butrint,0,20.02611111,39.75111111,C,Albania,al
+111,102,Al Qal'a of Beni Hammad,0,4.78684,35.81844,C,Algeria,dz
+198,179,Tassili n'Ajjer,0,9,25.5,C/N,Algeria,dz
+209,188,M'Zab Valley,0,3.68333,32.48333,C,Algeria,dz
+212,191,Djémila,0,5.73667,36.32056,C,Algeria,dz
+214,193,Tipasa,0,2.383333333,36.55,C,Algeria,dz
+215,194,Timgad,0,6.4688611111,35.4841666667,C,Algeria,dz
+667,565,Kasbah of Algiers,0,3.06028,36.78333,C,Algeria,dz
+1487,1160,Madriu-Perafita-Claror Valley,0,1.595555556,42.49472222,C,Andorra,ad
+2128,1511,Mbanza Kongo Vestiges of the Capital of the former Kingdom of Kongo,0,14.2497222222,-6.2688888889,C,Angola,ao
+2086,1499,Antigua Naval Dockyard and Related Archaeological Sites,0,-61.7616666667,17.0069444444,C,Antigua and Barbuda,ag
+160,145,Los Glaciares National Park,0,-73.24944,-50,N,Argentina,ar
+340,303,Iguazu National Park,0,-54.13333333,-25.51805556,N,Argentina,ar
+1091,936,Cueva de las Manos Río Pinturas,0,-70.66666667,-47.15,C,Argentina,ar
+1092,937,Península Valdés,0,-64,-42.5,N,Argentina,ar
+1130,966,Ischigualasto / Talampaya Natural Parks,0,-68,-30,N,Argentina,ar
+1159,995,Jesuit Block and Estancias of Córdoba,0,-64.19111,-31.42056,C,Argentina,ar
+1295,1116,Quebrada de Humahuaca,0,-65.34886111,-23.19986111,C,Argentina,ar
+2172,1526,Los Alerces National Park,0,-71.8728,-42.8528,N,Argentina,ar
+920,777,Monasteries of Haghpat and Sanahin,0,44.71028,41.095,C,Armenia,am
+1124,960,Monastery of Geghard and the Upper Azat Valley,0,44.79667,40.15889,C,Armenia,am
+1181,1011,Cathedral and Churches of Echmiatsin and the Archaeological Site of Zvartnots,0,44.29514,40.15931,C,Armenia,am
+1872,147,Kakadu National Park,0,132.8333333,-12.83333333,C/N,Australia,au
+172,154,Great Barrier Reef,0,147.7,-18.28611111,N,Australia,au
+1457,166,Sydney Opera House,0,151.2152777777,-33.8566666667,C,Australia,au
+185,167,Willandra Lakes Region,0,143,-34,C/N,Australia,au
+1950,181,Tasmanian Wilderness,0,145.4166667,-41.58333333,C/N,Australia,au
+206,186,Lord Howe Island Group,0,159.0883333,-31.56555556,N,Australia,au
+422,368,Gondwana Rainforests of Australia,0,150.05,-28.25,N,Australia,au
+519,447,Ulu<U>r</U>u-Kata Tju<U>t</U>a National Park,0,131,-25.33333333,C/N,Australia,au
+565,486,Wet Tropics of Queensland,0,144.9666667,-15.65,N,Australia,au
+683,577,Heard and McDonald Islands,0,73.5,-53.1,N,Australia,au
+684,578,Shark Bay Western Australia,0,113.4361111,-25.48611111,N,Australia,au
+747,629,Macquarie Island,0,158.8955556,-54.59472222,N,Australia,au
+748,630,Fraser Island,0,153.1333333,-25.21666667,N,Australia,au
+826,698,Australian Fossil Mammal Sites (Riversleigh / Naracoorte),0,138.7166667,-19.08333333,N,Australia,au
+1071,917,Greater Blue Mountains Area,0,150,-33.7,N,Australia,au
+1272,1094,Purnululu National Park,0,128.5,-17.5,N,Australia,au
+1730,1131,Royal Exhibition Building and Carlton Gardens,0,144.9702778,-37.80611111,C,Australia,au
+1648,1306,Australian Convict Sites,0,150.9944444444,-33.3783333333,C,Australia,au
+1763,1369,Ningaloo Coast,0,113.8102777778,-22.5625,N,Australia,au
+2262,1577,Budj Bim Cultural Landscape,0,141.8852777778,-38.0811111111,C,Australia,au
+927,784,Historic Centre of the City of Salzburg,0,13.04333333,47.80055556,C,Austria,at
+928,785,Semmering Railway,0,15.82797222,47.64877778,C,Austria,at
+929,786,Palace and Gardens of Schönbrunn,0,16.31333333,48.18666667,C,Austria,at
+952,806,Hallstatt-Dachstein / Salzkammergut Cultural Landscape,0,13.64638889,47.55944444,C,Austria,at
+1724,931,City of Graz – Historic Centre and Schloss Eggenberg,0,15.3916666667,47.0741666667,C,Austria,at
+1134,970,Wachau Cultural Landscape,0,15.43416667,48.36444444,C,Austria,at
+1206,1033,Historic Centre of Vienna,1,16.38333333,48.21666667,C,Austria,at
+1121,958,Walled City of Baku with the Shirvanshah's Palace and Maiden Tower,0,49.83333333,40.36666667,C,Azerbaijan,az
+1474,1076,Gobustan Rock Art Cultural Landscape,0,49.375,40.125,C,Azerbaijan,az
+2333,1549,Historic Centre of Sheki with the Khan’s Palace,0,47.1875,41.2033333333,C,Azerbaijan,az
+2062,1192,Qal’at al-Bahrain – Ancient Harbour and Capital of Dilmun,0,50.5272222222,26.23306,C,Bahrain,bh
+1859,1364,Pearling Testimony of an Island Economy,0,50.61351,26.24128,C,Bahrain,bh
+2291,1542,Dilmun Burial Mounds,0,50.5127777778,26.1497222222,C,Bahrain,bh
+365,321,Historic Mosque City of Bagerhat,0,89.8,22.66667,C,Bangladesh,bd
+366,322,Ruins of the Buddhist Vihara at Paharpur,0,88.98333333,25.03333333,C,Bangladesh,bd
+943,798,The Sundarbans,0,89.18333,21.95,N,Bangladesh,bd
+1786,1376,Historic Bridgetown and its Garrison,0,-59.6138888889,13.0966666667,C,Barbados,bb
+743,625,Mir Castle Complex,0,26.47272222,53.45108333,C,Belarus,by
+1373,1196,Architectural Residential and Cultural Complex of the Radziwill Family at Nesvizh,0,26.69139,53.22278,C,Belarus,by
+1006,855,Flemish Béguinages,0,4.47375,51.03097222,C,Belgium,be
+1007,856,The Four Lifts on the Canal du Centre and their Environs La Louvière and Le Roeulx (Hainaut),0,4.13722,50.48111,C,Belgium,be
+1008,857,La Grand-Place Brussels,0,4.35242,50.84668,C,Belgium,be
+1160,996,Historic Centre of Brugge,0,3.22527,51.20891,C,Belgium,be
+1173,1005,Major Town Houses of the Architect Victor Horta (Brussels),0,4.36223,50.82806,C,Belgium,be
+1174,1006,Neolithic Flint Mines at Spiennes (Mons),0,3.97879,50.43077,C,Belgium,be
+1179,1009,Notre-Dame Cathedral in Tournai,0,3.38926,50.60603,C,Belgium,be
+1362,1185,Plantin-Moretus House-Workshops-Museum Complex,0,4.39778,51.21833,C,Belgium,be
+1578,1298,Stoclet House,0,4.4161111111,50.835,C,Belgium,be
+1837,1344,Major Mining Sites of Wallonia,0,3.8383333333,50.4352777778,C,Belgium,be
+900,764,Belize Barrier Reef Reserve System,0,-87.05833333,16.75,N,Belize,bz
+1560,323,Royal Palaces of Abomey,0,1.983333333,7.183333333,C,Benin,bj
+484,420,City of Potosí,1,-65.75306,-19.58361,C,Bolivia (Plurinational State of),bo
+619,529,Jesuit Missions of the Chiquitos,0,-60.5,-16,C,Bolivia (Plurinational State of),bo
+668,566,Historic City of Sucre,0,-65.25917,-19.04306,C,Bolivia (Plurinational State of),bo
+670,567,Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture,0,-68.67778,-16.55833333,C,Bolivia (Plurinational State of),bo
+1035,883,Fuerte de Samaipata,0,-63.81666667,-18.16666667,C,Bolivia (Plurinational State of),bo
+1131,967,Noel Kempff Mercado National Park,0,-60.86667,-14.26667,N,Bolivia (Plurinational State of),bo
+1107,946,Old Bridge Area of the Old City of Mostar,0,17.81092,43.34812,C,Bosnia and Herzegovina,ba
+1437,1260,Mehmed Paša Sokolović Bridge in Višegrad,0,19.288025,43.7814444444,C,Bosnia and Herzegovina,ba
+1191,1021,Tsodilo,0,21.73333333,-18.75,C,Botswana,bw
+1976,1432,Okavango Delta,0,22.9,-19.2833333333,N,Botswana,bw
+136,124,Historic Town of Ouro Preto,0,-43.50555556,-20.38888889,C,Brazil,br
+210,189,Historic Centre of the Town of Olinda,0,-34.845,-8.013333333,C,Brazil,br
+348,309,Historic Centre of Salvador de Bahia,0,-38.5,-12.96666667,C,Brazil,br
+380,334,Sanctuary of Bom Jesus do Congonhas,0,-43.85777778,-20.49972222,C,Brazil,br
+408,355,Iguaçu National Park,0,-54.43333,-25.68333,N,Brazil,br
+516,445,Brasilia,0,-47.9,-15.78333,C,Brazil,br
+719,606,Serra da Capivara National Park,0,-42.33333333,-8.416666667,C,Brazil,br
+970,821,Historic Centre of São Luís,0,-44.3025,-2.514166667,C,Brazil,br
+1042,890,Historic Centre of the Town of Diamantina,0,-43.6,-18.23333333,C,Brazil,br
+1044,892,Discovery Coast Atlantic Forest Reserves,0,-39.25,-16.5,N,Brazil,br
+1045,893,Atlantic Forest South-East Reserves,0,-48,-24.16667,N,Brazil,br
+1157,993,Historic Centre of the Town of Goiás,0,-50.13336,-15.93328,C,Brazil,br
+1163,998,Central Amazon Conservation Complex,0,-62.00833333,-2.333333333,N,Brazil,br
+1164,999,Pantanal Conservation Area,0,-57.38333,-17.71667,N,Brazil,br
+1166,1000,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,0,-32.42511111,-3.857944444,N,Brazil,br
+1208,1035,Cerrado Protected Areas: Chapada dos Veadeiros and Emas National Parks,0,-47.68461111,-14.00569444,N,Brazil,br
+1843,1100,Rio de Janeiro: Carioca Landscapes between the Mountain and the Sea,0,-43.2913888889,-22.9477777778,C,Brazil,br
+1725,1272,São Francisco Square in the Town of São Cristóvão,0,-37.21,-11.0161111111,C,Brazil,br
+2264,1308,Paraty and Ilha Grande – Culture and Biodiversity,0,-44.6853694444,-23.0186055556,C/N,Brazil,br
+2077,1493,Pampulha Modern Ensemble,0,-43.9736111111,-19.8519444444,C,Brazil,br
+2173,1548,Valongo Wharf Archaeological Site,0,-43.1873944444,-22.8971111111,C,Brazil,br
+46,42,Boyana Church,0,23.26666667,42.65,C,Bulgaria,bg
+47,43,Madara Rider,0,27.15,43.3,C,Bulgaria,bg
+48,44,Thracian Tomb of Kazanlak,0,25.4,42.61666667,C,Bulgaria,bg
+49,45,Rock-Hewn Churches of Ivanovo,0,25.96666667,43.71666667,C,Bulgaria,bg
+239,216,Rila Monastery,0,23.4,42.11666667,C,Bulgaria,bg
+240,217,Ancient City of Nessebar,0,27.73,42.65611,C,Bulgaria,bg
+1621,219,Srebarna Nature Reserve,0,27.07806,44.11444,N,Bulgaria,bg
+1641,225,Pirin National Park,0,23.4304722222,41.7427222222,N,Bulgaria,bg
+412,359,Thracian Tomb of Sveshtari,0,26.66667,43.66667,C,Bulgaria,bg
+1696,1225,Ruins of Loropéni,0,-3.5833333333,10.25,C,Burkina Faso,bf
+2290,1602,Ancient ferrous metallurgy sites of Burkina Faso,0,-3.3289861111,12.5877583333,C,Burkina Faso,bf
+1600,1310,Cidade Velha Historic Centre of Ribeira Grande,0,-23.6051944444,14.9151388889,C,Cabo Verde,cv
+791,668,Angkor,0,103.8333333,13.43333333,C,Cambodia,kh
+1591,1224,Temple of Preah Vihear,0,104.6838888889,14.3883333333,C,Cambodia,kh
+2140,1532,Temple Zone of Sambor Prei Kuk Archaeological Site of Ancient Ishanapura,0,105.0430555556,12.8725,C,Cambodia,kh
+470,407,Dja Faunal Reserve,0,13,3,N,Cameroon,cm
+2248,4,L’Anse aux Meadows National Historic Site,0,-55.61666667,51.46666667,C,Canada,ca
+27,24,Nahanni National Park,0,-125.5894444,61.54722222,N,Canada,ca
+75,71,Dinosaur Provincial Park,0,-111.4922222,50.76777778,N,Canada,ca
+175,157,S<U>G</U>ang Gwaay,0,-131.2202778,52.095,C,Canada,ca
+176,158,Head-Smashed-In Buffalo Jump,0,-113.6238889,49.74944444,C,Canada,ca
+286,256,Wood Buffalo National Park,0,-112.2933333,59.35833333,N,Canada,ca
+336,300,Historic District of Old Québec,0,-71.21055556,46.80944444,C,Canada,ca
+342,304,Canadian Rocky Mountain Parks,0,-116.4797222,51.42472222,N,Canada,ca
+483,419,Gros Morne National Park,0,-57.53138889,49.6125,N,Canada,ca
+812,686,Miguasha National Park,0,-66.35305556,48.105,N,Canada,ca
+875,741,Old Town Lunenburg,0,-64.30916667,44.37611111,C,Canada,ca
+1475,1221,Rideau Canal,0,-75.765125,44.9943861111,C,Canada,ca
+1516,1285,Joggins Fossil Cliffs,0,-64.4358333333,45.7097222222,N,Canada,ca
+1828,1404,Landscape of Grand Pré,0,-64.3072222222,45.1183333333,C,Canada,ca
+1874,1412,Red Bay Basque Whaling Station,0,-56.4295222222,51.726925,C,Canada,ca
+2214,1415,Pimachiowin Aki,0,-95.4112777778,51.8264166667,C/N,Canada,ca
+2083,1497,Mistaken Point,0,-53.2111111111,46.635,N,Canada,ca
+2295,1597,Writing-on-Stone / Áísínai’pi,0,-111.6333333333,49.075,C,Canada,ca
+553,475,Manovo-Gounda St Floris National Park,1,21.5,9,N,Central African Republic,cf
+1824,1400,Lakes of Ounianga,0,20.5055555556,19.055,N,Chad,td
+2091,1475,Ennedi Massif: Natural and Cultural Landscape,0,21.8627777778,17.0416666667,C/N,Chad,td
+846,715,Rapa Nui National Park,0,-109.45,-27.15,C,Chile,cl
+1123,959,Historic Quarter of the Seaport City of Valparaíso,0,-71.628,-33.04063889,C,Chile,cl
+1135,971,Churches of Chiloé,0,-73.76666667,-42.5,C,Chile,cl
+1869,1178,Humberstone and Santa Laura Saltpeter Works,0,-69.79406,-20.20582,C,Chile,cl
+1391,1214,Sewell Mining Town,0,-70.3827777777,-34.0844444444,C,Chile,cl
+507,437,Mount Taishan,0,117.1,36.26667,C/N,China,cn
+508,438,The Great Wall,0,116.08333,40.41667,C,China,cn
+510,439,Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang,0,123.4469444,41.79416667,C,China,cn
+511,440,Mogao Caves,0,94.81667,40.13333,C,China,cn
+512,441,Mausoleum of the First Qin Emperor,0,109.1,34.38333333,C,China,cn
+521,449,Peking Man Site at Zhoukoudian,0,115.9166667,39.73333333,C,China,cn
+1933,547,Mount Huangshan,0,118.18333,30.16667,C/N,China,cn
+757,637,Jiuzhaigou Valley Scenic and Historic Interest Area,0,103.91667,33.08333,N,China,cn
+758,638,Huanglong Scenic and Historic Interest Area,0,103.82222,32.75417,N,China,cn
+760,640,Wulingyuan Scenic and Historic Interest Area,0,110.5,29.33333,N,China,cn
+831,703,Mountain Resort and its Outlying Temples Chengde,0,117.93833,40.98694,C,China,cn
+832,704,Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu,0,116.975,35.61167,C,China,cn
+833,705,Ancient Building Complex in the Wudang Mountains,0,111,32.46667,C,China,cn
+837,707,Historic Ensemble of the Potala Palace Lhasa,0,91.11717,29.65792,C,China,cn
+921,778,Lushan National Park,0,115.8666667,29.43333333,C,China,cn
+922,779,Mount Emei Scenic Area including Leshan Giant Buddha Scenic Area,0,103.76925,29.5449,C/N,China,cn
+1934,811,Old Town of Lijiang,0,100.23333,26.86667,C,China,cn
+959,812,Ancient City of Ping Yao,0,112.15444,37.20139,C,China,cn
+961,813,Classical Gardens of Suzhou,0,120.45,31.31666667,C,China,cn
+1032,880,Summer Palace an Imperial Garden in Beijing,0,116.1411111,39.91055556,C,China,cn
+1033,881,Temple of Heaven: an Imperial Sacrificial Altar in Beijing,0,116.4447222,39.84555556,C,China,cn
+2245,911,Mount Wuyi,0,117.68333,27.71667,C/N,China,cn
+1065,912,Dazu Rock Carvings,0,105.705,29.70111,C,China,cn
+1167,1001,Mount Qingcheng and the Dujiangyan Irrigation System,0,103.60528,31.00167,C,China,cn
+1168,1002,Ancient Villages in Southern Anhui – Xidi and Hongcun,0,117.9875,29.90444444,C,China,cn
+1169,1003,Longmen Grottoes,0,112.4666667,34.46666667,C,China,cn
+1172,1004,Imperial Tombs of the Ming and Qing Dynasties,0,124.7938889,41.70722222,C,China,cn
+1213,1039,Yungang Grottoes,0,113.12222,40.10972,C,China,cn
+1731,1083,Three Parallel Rivers of Yunnan Protected Areas,0,98.40638889,27.895,N,China,cn
+1289,1110,Historic Centre of Macao,0,113.5364611111,22.1912919444,C,China,cn
+1877,1111,Cultural Landscape of Honghe Hani Rice Terraces ,0,102.7799805556,23.0932777778,C,China,cn
+1459,1112,Kaiping Diaolou and Villages,0,112.5658611111,22.2855194444,C,China,cn
+1505,1113,Fujian <em>Tulou</em>,0,117.6858333333,25.0230555556,C,China,cn
+1293,1114,Yin Xu,0,114.3138888888,36.1266666666,C,China,cn
+1315,1135,Capital Cities and Tombs of the Ancient Koguryo Kingdom,0,126.1872222,41.15694444,C,China,cn
+1390,1213,Sichuan Giant Panda Sanctuaries - Wolong Mt Siguniang and Jiajin Mountains ,0,103,30.8333333333,N,China,cn
+1965,1248,South China Karst,0,110.3544444444,24.9233333333,N,China,cn
+1587,1279,Mount Wutai,0,113.5633333333,39.0305555556,C,China,cn
+1523,1292,Mount Sanqingshan National Park,0,118.0644444444,28.9158333333,N,China,cn
+1726,1305,Historic Monuments of Dengfeng in “The Centre of Heaven and Earth”,0,113.0677194444,34.4587472222,C,China,cn
+1765,1334,West Lake Cultural Landscape of Hangzhou,0,120.1408333333,30.2375,C,China,cn
+1676,1335,China Danxia,0,106.0425,28.4219444444,N,China,cn
+1803,1388,Chengjiang Fossil Site,0,102.9772222222,24.6688888889,N,China,cn
+1804,1389,Site of Xanadu,0,116.1851277778,42.358,C,China,cn
+1876,1414,Xinjiang Tianshan,0,80.3541666667,41.9683333333,N,China,cn
+2181,1443,The Grand Canal,0,112.4683333333,34.6938888889,C,China,cn
+2035,1474,Tusi Sites,0,109.9669444444,28.9986111111,C,China,cn
+2100,1508,Zuojiang Huashan Rock Art Cultural Landscape,0,107.0230555556,22.2555555556,C,China,cn
+2101,1509,Hubei Shennongjia,0,110.2438888889,31.4697222222,N,China,cn
+2141,1540,Qinghai Hoh Xil,0,92.4391666667,35.3802777778,N,China,cn
+2142,1541,Kulangsu a Historic International Settlement,0,118.0619444444,24.4475,C,China,cn
+2224,1559,Fanjingshan,0,108.68,27.8955555556,N,China,cn
+2277,1592,Archaeological Ruins of Liangzhu City,0,119.9908333333,30.3955555556,C,China,cn
+2304,1606,Migratory Bird Sanctuaries along the Coast of Yellow Sea-Bohai Gulf of China (Phase I),0,121.0168138889,32.9319444444,N,China,cn
+319,285,Port Fortresses and Group of Monuments Cartagena,0,-75.53333333,10.41666667,C,Colombia,co
+841,711,Los Katíos National Park,0,-77,7.666666667,N,Colombia,co
+876,742,Historic Centre of Santa Cruz de Mompox,0,-74.43333333,9.233333333,C,Colombia,co
+877,743,National Archeological Park of Tierradentro,0,-76.03333333,2.583333333,C,Colombia,co
+878,744,San Agustín Archaeological Park,0,-76.23333333,1.916666667,C,Colombia,co
+1787,1121,Coffee Cultural Landscape of Colombia,0,-75.6816666667,5.4716666667,C,Colombia,co
+2213,1174,Chiribiquete National Park – “The Maloca of the Jaguar”,0,-72.7972222222,0.5252777778,C/N,Colombia,co
+1393,1216,Malpelo Fauna and Flora Sanctuary,0,-81.6166666666,3.9666666667,N,Colombia,co
+969,820,Cocos Island National Park,0,-87.06666667,5.533333333,N,Costa Rica,cr
+1083,928,Area de Conservación Guanacaste,0,-85.61666667,10.85,N,Costa Rica,cr
+1997,1453,Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís,0,-83.4775,8.9113888889,C,Costa Rica,cr
+216,195,Taï National Park,0,-7.66667,5.75,N,Côte d'Ivoire,ci
+252,227,Comoé National Park,0,-4,9,N,Côte d'Ivoire,ci
+1919,1322,Historic Town of Grand-Bassam,0,3.7363888889,5.1958333333,C,Côte d'Ivoire,ci
+2315,95,Old City of Dubrovnik,0,18.09139,42.65056,C,Croatia,hr
+105,97,Historical Complex of Split with the Palace of Diocletian,0,16.44333,43.50944,C,Croatia,hr
+106,98,Plitvice Lakes National Park,0,15.61444,44.87778,N,Croatia,hr
+956,809,Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Poreč,0,13.59444,45.22917,C,Croatia,hr
+957,810,Historic City of Trogir,0,16.25167,43.5125,C,Croatia,hr
+1127,963,The Cathedral of St James in Šibenik,0,15.89038,43.73629,C,Croatia,hr
+1484,1240,Stari Grad Plain,0,16.6386111111,43.1816666667,C,Croatia,hr
+225,204,Old Havana and its Fortification System,0,-82.35,23.13333333,C,Cuba,cu
+535,460,Trinidad and the Valley de los Ingenios,0,-79.98444444,21.80305556,C,Cuba,cu
+989,839,Alejandro de Humboldt National Park,0,-75,20.45,N,Cuba,cu
+991,840,Viñales Valley,0,-83.71667,22.61667,C,Cuba,cu
+992,841,San Pedro de la Roca Castle Santiago de Cuba,0,-75.87083333,19.96666667,C,Cuba,cu
+1041,889,Desembarco del Granma National Park,0,-77.63333,19.88333,N,Cuba,cu
+1178,1008,Archaeological Landscape of the First Coffee Plantations in the South-East of Cuba,0,-75.39138889,20.03,C,Cuba,cu
+1379,1202,Urban Historic Centre of Cienfuegos ,0,-80.45278,22.14722,C,Cuba,cu
+1482,1270,Historic Centre of Camagüey,0,-77.9186111111,21.3786111111,C,Cuba,cu
+85,79,Paphos,0,32.40556,34.75833,C,Cyprus,cy
+401,351,Painted Churches in the Troodos Region,0,33.09583333,34.92027778,C,Cyprus,cy
+1927,848,Choirokoitia,0,33.34333,34.79833,C,Cyprus,cy
+1928,616,Historic Centre of Prague,0,14.41944,50.08972,C,Czechia,cz
+732,617,Historic Centre of Český Krumlov,0,14.31666667,48.81666667,C,Czechia,cz
+738,621,Historic Centre of Telč,0,15.45,49.18333,C,Czechia,cz
+816,690,Pilgrimage Church of St John of Nepomuk at Zelená Hora,0,15.9420583333,49.5802,C,Czechia,cz
+865,732,Kutná Hora: Historical Town Centre with the Church of St Barbara and the Cathedral of Our Lady at Sedlec,0,15.2666666667,49.95,C,Czechia,cz
+899,763,Lednice-Valtice Cultural Landscape,0,16.775,48.77583,C,Czechia,cz
+1010,859,Holy Trinity Column in Olomouc,0,17.2504583333,49.5939361111,C,Czechia,cz
+1011,860,Gardens and Castle at Kroměříž,0,17.37722222,49.3,C,Czechia,cz
+1012,861,Holašovice Historic Village,0,14.25277778,48.95972222,C,Czechia,cz
+1054,901,Litomyšl Castle,0,16.31444,49.87361,C,Czechia,cz
+1226,1052,Tugendhat Villa in Brno,0,16.6160555556,49.2071833333,C,Czechia,cz
+2258,1078,Jewish Quarter and St Procopius' Basilica in Třebíč,0,15.87888889,49.21722222,C,Czechia,cz
+2281,1589,Landscape for Breeding and Training of Ceremonial Carriage Horses at Kladruby nad Labem,0,15.4842583333,50.05665,C,Czechia,cz
+1269,1091,Complex of Koguryo Tombs,0,125.415,38.86305556,C,Democratic People's Republic of Korea,kp
+1878,1278,Historic Monuments and Sites in Kaesong,0,126.5080555556,37.9816666667,C,Democratic People's Republic of Korea,kp
+67,63,Virunga National Park,1,29.16666667,0.916666667,N,Democratic Republic of the Congo,cd
+149,136,Garamba National Park,1,29.25,4,N,Democratic Republic of the Congo,cd
+150,137,Kahuzi-Biega National Park,1,28.75,-2.5,N,Democratic Republic of the Congo,cd
+314,280,Salonga National Park,1,21,-2,N,Democratic Republic of the Congo,cd
+849,718,Okapi Wildlife Reserve,1,28.5,2,N,Democratic Republic of the Congo,cd
+822,695,Roskilde Cathedral,0,12.07972222,55.64222222,C,Denmark,dk
+824,696,Kronborg Castle,0,12.62083333,56.03889,C,Denmark,dk
+2316,697,Jelling Mounds Runic Stones and Church,0,9.42,55.75638889,C,Denmark,dk
+1330,1149,Ilulissat Icefjord,0,-49.5,69.13333333,N,Denmark,dk
+1973,1416,Stevns Klint,0,12.4233333333,55.2672222222,N,Denmark,dk
+2029,1468,Christiansfeld a Moravian Church Settlement,0,9.4813888889,55.3555555556,C,Denmark,dk
+2030,1469,The par force hunting landscape in North Zealand,0,12.3577777778,55.9136111111,C,Denmark,dk
+2154,1536,Kujataa Greenland: Norse and Inuit Farming at the Edge of the Ice Cap,0,-45.5980555556,61.1644444444,C,Denmark,dk
+2221,1557,Aasivissuit – Nipisat. Inuit Hunting Ground between Ice and Sea,0,-51.4332055556,67.0639305556,C,Denmark,dk
+962,814,Morne Trois Pitons National Park,0,-61.28333333,15.26666667,N,Dominica,dm
+615,526,Colonial City of Santo Domingo,0,-69.91666667,18.48333333,C,Dominican Republic,do
+4,1,Galápagos Islands,0,-91,-0.81667,N,Ecuador,ec
+5,2,City of Quito,0,-78.5,-0.003888889,C,Ecuador,ec
+290,260,Sangay National Park,0,-78.33333,-1.83333,N,Ecuador,ec
+1014,863,Historic Centre of Santa Ana de los Ríos de Cuenca,0,-78.98333333,-2.883333333,C,Ecuador,ec
+92,86,Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur,0,31.13041,29.97604,C,Egypt,eg
+93,87,Ancient Thebes with its Necropolis,0,32.6,25.73333,C,Egypt,eg
+94,88,Nubian Monuments from Abu Simbel to Philae,0,31.6258055556,22.3372222222,C,Egypt,eg
+95,89,Historic Cairo,0,31.26111,30.05,C,Egypt,eg
+96,90,Abu Mena,1,29.66666667,30.8358333333,C,Egypt,eg
+1116,954,Saint Catherine Area,0,33.97543,28.55623,C,Egypt,eg
+1363,1186,Wadi Al-Hitan (Whale Valley),0,30.18333,29.33333,N,Egypt,eg
+799,675,Joya de Cerén Archaeological Site,0,-89.36916667,13.8275,C,El Salvador,sv
+2131,1550,Asmara: A Modernist African City,0,38.9358333333,15.3352777778,C,Eritrea,er
+1626,822,Historic Centre (Old Town) of Tallinn,0,24.73333333,59.43333,C,Estonia,ee
+12,9,Simien National Park,0,38.0666666667,13.1833333333,N,Ethiopia,et
+13,10,Lower Valley of the Awash,0,40.57939,11.10006,C,Ethiopia,et
+15,12,Tiya,0,38.6121,8.43491,C,Ethiopia,et
+18,15,Aksum,0,38.71861,14.13019,C,Ethiopia,et
+20,17,Lower Valley of the Omo,0,35.96666667,4.8,C,Ethiopia,et
+21,18,Rock-Hewn Churches Lalibela,0,39.04042,12.02935,C,Ethiopia,et
+22,19,Fasil Ghebbi Gondar Region,0,37.46617,12.60692,C,Ethiopia,et
+1452,1189,Harar Jugol the Fortified Historic Town,0,42.1377777777,9.3088888888,C,Ethiopia,et
+1846,1333,Konso Cultural Landscape,0,37.4,5.3,C,Ethiopia,et
+1886,1399,Levuka Historical Port Town,0,178.8345333333,-17.6833777778,C,Fiji,fj
+686,579,Bronze Age Burial Site of Sammallahdenmäki,0,21.7775,61.12056,C,Finland,fi
+1718,582,Old Rauma,0,21.51167,61.12806,C,Finland,fi
+690,583,Fortress of Suomenlinna,0,24.98722,60.14722,C,Finland,fi
+691,584,Petäjävesi Old Church,0,25.18333,62.25,C,Finland,fi
+885,751,Verla Groundwood and Board Mill,0,26.64083,61.06194,C,Finland,fi
+2317,80,Mont-Saint-Michel and its Bay,0,-1.51056,48.63556,C,France,fr
+1719,81,Chartres Cathedral,0,1.487222222,48.4475,C,France,fr
+1571,83,Palace and Park of Versailles,0,2.119444444,48.805,C,France,fr
+1572,84,Vézelay Church and Hill,0,3.748333333,47.46638889,C,France,fr
+91,85,Prehistoric Sites and Decorated Caves of the Vézère Valley,0,1.17,45.0575,C,France,fr
+178,160,Palace and Park of Fontainebleau,0,2.698055556,48.40194444,C,France,fr
+1951,162,Amiens Cathedral,0,2.301666667,49.895,C,France,fr
+1568,163,"Roman Theatre and its Surroundings and the ""Triumphal Arch"" of Orange",0,4.808416667,44.13572222,C,France,fr
+182,164,Arles Roman and Romanesque Monuments,0,4.630694444,43.67763889,C,France,fr
+1565,165,Cistercian Abbey of Fontenay,0,4.38911,47.63944,C,France,fr
+1637,203,From the Great Saltworks of Salins-les-Bains to the Royal Saltworks of Arc-et-Senans the Production of Open-pan Salt ,0,5.8763888889,46.9375,C,France,fr
+254,228,Historic Centre of Avignon: Papal Palace Episcopal Ensemble and Avignon Bridge,0,4.806111111,43.95277778,C,France,fr
+2186,229,Place Stanislas Place de la Carrière and Place d'Alliance in Nancy,0,6.183333333,48.69361111,C,France,fr
+2118,230,Abbey Church of Saint-Savin sur Gartempe,0,0.86611,46.56472,C,France,fr
+288,258,Gulf of Porto: Calanche of Piana Gulf of Girolata Scandola Reserve,0,8.628833333,42.32519444,N,France,fr
+1566,344,Pont du Gard (Roman Aqueduct),0,4.535277778,43.94722222,C,France,fr
+393,345,Historic Fortified City of Carcassonne,0,2.358888889,43.21055556,C,France,fr
+2156,495,Strasbourg Grande-Île and <em>Neustadt</em>,0,7.7488888889,48.5844444444,C,France,fr
+710,600,Paris Banks of the Seine,0,2.294166667,48.85833333,C,France,fr
+711,601,Cathedral of Notre-Dame Former Abbey of Saint-Rémi and Palace of Tau Reims,0,4.032777778,49.25333333,C,France,fr
+1952,635,Bourges Cathedral,0,2.398333333,47.08222222,C,France,fr
+910,770,Canal du Midi,0,1.416388889,43.61138889,C,France,fr
+1019,868,Routes of Santiago de Compostela in France,0,0.722944444,45.18405556,C,France,fr
+1023,872,Historic Site of Lyon,0,4.83333,45.76722,C,France,fr
+1025,873,Provins Town of Medieval Fairs,0,3.298888889,48.55972222,C,France,fr
+1088,932,Jurisdiction of Saint-Emilion,0,-0.155277778,44.89472222,C,France,fr
+2250,933,The Loire Valley between Sully-sur-Loire and Chalonnes,0,0.70278,47.39889,C,France,fr
+1531,1115,Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems,0,164.5663888889,-20.4119444444,N,France,fr
+1848,1153,The Causses and the Cévennes Mediterranean agro-pastoral Cultural Landscape,0,3.4730555556,44.2202777778,C,France,fr
+1358,1181,Le Havre the City Rebuilt by Auguste Perret,0,0.1075,49.49278,C,France,fr
+1433,1256,Bordeaux Port of the Moon,0,-0.5722222222,44.8388888889,C,France,fr
+1514,1283,Fortifications of Vauban,0,6.0269444444,47.2361111111,C,France,fr
+1604,1317,Pitons cirques and remparts of Reunion Island,0,55.48,-21.0994444444,N,France,fr
+1663,1337,Episcopal City of Albi,0,2.1425,43.9283333333,C,France,fr
+1776,1360,Nord-Pas de Calais Mining Basin,0,3.5461111111,50.4625,C,France,fr
+2016,1425,The Climats terroirs of Burgundy,0,4.8644444444,47.0580555556,C,France,fr
+1974,1426,Decorated Cave of Pont d’Arc known as Grotte Chauvet-Pont d’Arc Ardèche,0,4.4161111111,44.3875,C,France,fr
+2257,1434,Chaîne des Puys - Limagne fault tectonic arena,0,2.9651111111,45.7793888889,N,France,fr
+2026,1465,Champagne Hillsides Houses and Cellars,0,3.9461111111,49.0775,C,France,fr
+2155,1529,Taputapuātea,0,-151.3723777778,-16.8414,C,France,fr
+2300,1603,French Austral Lands and Seas,0,69.3528055556,-49.3803611111,N,France,fr
+1547,1147,Ecosystem and Relict Cultural Landscape of Lopé-Okanda,0,11.5,-0.5,C/N,Gabon,ga
+897,761,Kunta Kinteh Island and Related Sites,0,-16.35719444,13.31616667,C,Gambia (the),gm
+2251,708,Historical Monuments of Mtskheta,0,44.71639,41.84389,C,Georgia,ge
+839,709,Upper Svaneti,0,43.01139,42.91639,C,Georgia,ge
+2243,710,Gelati Monastery,0,42.7683333333,42.2947222222,C,Georgia,ge
+1953,3,Aachen Cathedral ,0,6.084444444,50.77444444,C,Germany,de
+186,168,Speyer Cathedral,0,8.443055556,49.31666667,C,Germany,de
+1735,169,Würzburg Residence with the Court Gardens and Residence Square,0,9.93889,49.79278,C,Germany,de
+1627,187,St Mary's Cathedral and St Michael's Church at Hildesheim,0,9.94389,52.15278,C,Germany,de
+1864,271,Pilgrimage Church of Wies,0,10.90013889,47.68127778,C,Germany,de
+1706,272,Hanseatic City of Lübeck,0,10.69167,53.86667,C,Germany,de
+322,288,Castles of Augustusburg and Falkenlust at Brühl,0,6.909777778,50.82502778,C,Germany,de
+1628,292,Cologne Cathedral,0,6.957222222,50.94111111,C,Germany,de
+420,367,Roman Monuments Cathedral of St Peter and Church of Our Lady in Trier,0,6.633333333,49.75,C,Germany,de
+1865,515,Abbey and Altenmünster of Lorsch,0,8.56858,49.65369,C,Germany,de
+624,532,Palaces and Parks of Potsdam and Berlin,0,13.03333333,52.4,C,Germany,de
+627,534,Garden Kingdom of Dessau-Wörlitz,0,12.42083,51.8425,C,Germany,de
+629,535,Collegiate Church Castle and Old Town of Quedlinburg,0,11.15,51.78333,C,Germany,de
+642,546,Maulbronn Monastery Complex,0,8.81306,49.00083,C,Germany,de
+1576,623,Mines of Rammelsberg Historic Town of Goslar and Upper Harz Water Management  System,0,10.34,51.82,C,Germany,de
+742,624,Town of Bamberg,0,10.88888889,49.89166667,C,Germany,de
+813,687,Völklingen Ironworks,0,6.85,49.24444,C,Germany,de
+1733,720,Messel Pit Fossil Site,0,8.75389,49.91667,N,Germany,de
+2158,729,Bauhaus and its Sites in Weimar Dessau and Bernau,0,11.3295,50.9747777778,C,Germany,de
+926,783,Luther Memorials in Eisleben and Wittenberg,0,12.65278,51.86472,C,Germany,de
+997,846,Classical Weimar,0,11.32861,50.9775,C,Germany,de
+1047,896,Museumsinsel (Museum Island) Berlin,0,13.39861111,52.51972222,C,Germany,de
+1048,897,Wartburg Castle,0,10.307,50.96677778,C,Germany,de
+1138,974,Monastic Island of Reichenau,0,9.061305556,47.69872222,C,Germany,de
+1139,975,Zollverein Coal Mine Industrial Complex in Essen,0,7.046111111,51.49138889,C,Germany,de
+1243,1066,Upper Middle Rhine Valley,0,7.694166667,50.17361111,C,Germany,de
+1244,1067,Historic Centres of Stralsund and Wismar,0,13.08527778,54.3025,C,Germany,de
+1265,1087,Town Hall and Roland on the Marketplace of Bremen,0,8.807472222,53.07597222,C,Germany,de
+1335,1155,Old town of Regensburg with Stadtamhof,0,12.09916667,49.02055556,C,Germany,de
+1416,1239,Berlin Modernism Housing Estates,0,13.45,52.4483333333,C,Germany,de
+1778,1368,Fagus Factory in Alfeld,0,9.8111111111,51.9836111111,C,Germany,de
+1799,1379,Margravial Opera House Bayreuth,0,11.5786111111,49.9444444444,C,Germany,de
+1875,1413,Bergpark Wilhelmshöhe,0,9.3930555556,51.3158333333,C,Germany,de
+1990,1447,Carolingian Westwork and Civitas Corvey,0,9.41025,51.7782777778,C,Germany,de
+2028,1467,Speicherstadt and Kontorhaus District with Chilehaus,0,9.9994444444,53.5455555556,C,Germany,de
+2288,1470,Naumburg Cathedral,0,11.804,51.1548055556,C,Germany,de
+2157,1527,Caves and Ice Age Art in the Swabian Jura,0,9.7655555556,48.3877777778,C,Germany,de
+2206,1553,Archaeological Border complex of Hedeby and the Danevirke,0,9.4541111111,54.4619444444,C,Germany,de
+2266,1580,Water Management System of Augsburg,0,10.902,48.3654722222,C,Germany,de
+38,34,Forts and Castles Volta Greater Accra Central and Western Regions,0,-0.49361,5.39103,C,Ghana,gh
+39,35,Asante Traditional Buildings,0,-1.6258333333,6.4011111111,C,Ghana,gh
+452,392,Temple of Apollo Epicurius at Bassae,0,21.89694,37.43498,C,Greece,gr
+453,393,Archaeological Site of Delphi,0,22.49617,38.48149,C,Greece,gr
+467,404,Acropolis Athens,0,23.72618,37.97087,C,Greece,gr
+526,454,Mount Athos,0,24.21667,40.26667,C/N,Greece,gr
+527,455,Meteora,0,21.63333,39.71667,C/N,Greece,gr
+528,456,Paleochristian and Byzantine Monuments of Thessalonika,0,22.965,40.63833,C,Greece,gr
+571,491,Sanctuary of Asklepios at Epidaurus,0,23.11666667,37.66666667,C,Greece,gr
+574,493,Medieval City of Rhodes,0,28.22778,36.44722,C,Greece,gr
+595,511,Archaeological Site of Mystras,0,22.36667,37.08056,C,Greece,gr
+603,517,Archaeological Site of Olympia,0,21.66666667,37.65,C,Greece,gr
+620,530,Delos,0,25.26667,37.4,C,Greece,gr
+632,537,Monasteries of Daphni Hosios Loukas and Nea Moni of Chios,0,22.75,38.4,C,Greece,gr
+703,595,Pythagoreion and Heraion of Samos,0,26.94333,37.69083,C,Greece,gr
+923,780,Archaeological Site of Aigai (modern name Vergina),0,22.31833,40.47139,C,Greece,gr
+1097,941,Archaeological Sites of Mycenae and Tiryns,0,22.75,37.73333333,C,Greece,gr
+1098,942,The Historic Centre (Chorá) with the Monastery of Saint-John the Theologian and the Cave of the Apocalypse on the Island of Pátmos,0,26.55,37.3,C,Greece,gr
+1477,978,Old Town of Corfu,0,19.9275,39.6239413889,C,Greece,gr
+2109,1517,Archaeological Site of Philippi,0,24.2852777778,41.0147222222,C,Greece,gr
+68,64,Tikal National Park,0,-89.61666667,17.21666667,C/N,Guatemala,gt
+69,65,Antigua Guatemala,0,-90.66666667,14.56666667,C,Guatemala,gt
+167,149,Archaeological Park and Ruins of Quirigua,0,-89.04025,15.27059,C,Guatemala,gt
+199,180,National History Park – Citadel Sans Souci Ramiers,0,-72.24417,19.57361,C,Haiti,ht
+320,286,Vatican City,0,12.45736,41.90216,C,Holy See,va
+141,129,Maya Site of Copan,0,-89.13333,14.85,C,Honduras,hn
+217,196,Río Plátano Biosphere Reserve,1,-84.675,15.74444444,N,Honduras,hn
+462,400,Budapest including the Banks of the Danube the Buda Castle Quarter and Andrássy Avenue,0,19.07067,47.48242,C,Hungary,hu
+464,401,Old Village of Hollókő and its Surroundings,0,19.52917,47.99444,C,Hungary,hu
+552,474,Hortobágy National Park - the <i>Puszta</i>,0,21.15678,47.59458,C,Hungary,hu
+893,758,Millenary Benedictine Abbey of Pannonhalma and its Natural Environment,0,17.78444,47.55889,C,Hungary,hu
+1004,853,Early Christian Necropolis of Pécs (Sopianae),0,18.22778,46.07444,C,Hungary,hu
+1240,1063,Tokaj Wine Region Historic Cultural Landscape,0,21.35,48.15,C,Hungary,hu
+1333,1152,Þingvellir National Park,0,-21.03725,64.25380556,C,Iceland,is
+1532,1267,Surtsey,0,-20.6022222222,63.3030555556,N,Iceland,is
+2301,1604,Vatnajökull National Park - dynamic nature of fire and ice,0,-16.8815404444,64.577363,N,Iceland,is
+1460,231,Red Fort Complex,0,77.2408333333,28.6555555556,C,India,in
+2182,232,Humayun's Tomb Delhi,0,77.25056,28.59333,C,India,in
+259,233,Qutb Minar and its Monuments Delhi,0,77.18528,28.52583,C,India,in
+260,234,Churches and Convents of Goa,0,73.91167,15.50222,C,India,in
+266,239,Group of Monuments at Pattadakal,0,75.81667,15.94833,C,India,in
+267,240,Khajuraho Group of Monuments,0,79.92222,24.85222,C,India,in
+1932,241,Group of Monuments at Hampi,0,76.47167,15.31444,C,India,in
+269,242,Ajanta Caves,0,75.7,20.55333,C,India,in
+270,243,Ellora Caves,0,75.17917,20.02639,C,India,in
+272,244,Elephanta Caves,0,72.93583,18.96667,C,India,in
+274,246,Sun Temple Konârak,0,86.09472,19.8875,C,India,in
+1947,247,Hill Forts of Rajasthan,0,74.6461111111,24.8833333333,C,India,in
+277,249,Group of Monuments at Mahabalipuram,0,80.19167,12.61667,C,India,in
+280,250,Great Living Chola Temples,0,79.1325,10.78305556,C,India,in
+281,251,Agra Fort,0,78.03333333,27.18333333,C,India,in
+282,252,Taj Mahal,0,78.04222,27.17417,C,India,in
+285,255,Fatehpur Sikri,0,77.66417,27.09444,C,India,in
+382,335,Nanda Devi and Valley of Flowers National Parks  ,0,79.66667,30.71667,N,India,in
+384,337,Kaziranga National Park,0,93.41666667,26.66666667,N,India,in
+385,338,Manas Wildlife Sanctuary,0,91.03055556,26.725,N,India,in
+387,340,Keoladeo National Park,0,77.50861111,27.15888889,N,India,in
+524,452,Sundarbans National Park,0,88.89583333,21.945,N,India,in
+613,524,Buddhist Monuments at Sanchi,0,77.73972,23.47944,C,India,in
+2008,922,Rani-ki-Vav (the Queen’s Stepwell) at Patan Gujarat,0,72.1016666667,23.8588888889,C,India,in
+1079,925,Rock Shelters of Bhimbetka,0,77.58333333,22.92777778,C,India,in
+1540,944,Mountain Railways of India,0,76.93583,11.51028,C,India,in
+1105,945,Chhatrapati Shivaji Terminus (formerly Victoria Terminus),0,72.8362027777,18.9401222222,C,India,in
+1231,1056,Mahabodhi Temple Complex at Bodh Gaya,0,84.99389,24.69528,C,India,in
+1279,1101,Champaner-Pavagadh Archaeological Park,0,73.53333333,22.48333333,C,India,in
+1677,1338,The Jantar Mantar Jaipur,0,75.825,26.9247222222,C,India,in
+1921,1342,Western Ghats,0,77.2497222222,8.5297222222,N,India,in
+2011,1406,Great Himalayan National Park Conservation Area,0,77.5833333333,31.8333333333,N,India,in
+2041,1480,Victorian Gothic and Art Deco Ensembles of Mumbai,0,72.8300833333,18.9298055556,C,India,in
+2089,1502,Archaeological Site of Nalanda Mahavihara at Nalanda Bihar,0,85.4438888889,25.1366666667,C,India,in
+2105,1513,Khangchendzonga National Park,0,88.3772222222,27.7647222222,C/N,India,in
+2144,1551,Historic City of Ahmadabad,0,72.5880555556,23.0263888889,C,India,in
+2309,1605,Jaipur City Rajasthan,0,75.7872222222,26.9078611111,C,India,in
+700,592,Borobudur Temple Compounds,0,110.20361,-7.60778,C,Indonesia,id
+701,593,Sangiran Early Man Site,0,110.8166667,-7.4,C,Indonesia,id
+722,608,Ujung Kulon National Park,0,105.3333333,-6.75,N,Indonesia,id
+723,609,Komodo National Park,0,119.48944,-8.54333,N,Indonesia,id
+762,642,Prambanan Temple Compounds,0,110.49167,-7.75222,C,Indonesia,id
+1118,955,Lorentz National Park,0,137.83333,-4.75,N,Indonesia,id
+1344,1167,Tropical Rainforest Heritage of Sumatra,1,101.5,-2.5,N,Indonesia,id
+1836,1194,Cultural Landscape of Bali Province: the <em>Subak</em> System as a Manifestation of the <em>Tri Hita Karana</em> Philosophy,0,115.4027777778,-8.2591666667,C,Indonesia,id
+2311,1610,Ombilin Coal Mining Heritage of Sawahlunto,0,100.7378833333,-0.7666255556,C,Indonesia,id
+122,113,Tchogha Zanbil,0,48.53333333,32.0833,C,Iran (Islamic Republic of),ir
+123,114,Persepolis,0,52.89028,29.93444,C,Iran (Islamic Republic of),ir
+125,115,Meidan Emam Esfahan,0,51.6777777777,32.65745,C,Iran (Islamic Republic of),ir
+1254,1077,Takht-e Soleyman,0,47.235,36.60388889,C,Iran (Islamic Republic of),ir
+1284,1106,Pasargadae,0,53.16729,30.19383,C,Iran (Islamic Republic of),ir
+1365,1188,Soltaniyeh,0,48.79667,36.43528,C,Iran (Islamic Republic of),ir
+1564,1208,Bam and its Cultural Landscape,0,58.3666666667,29.11683,C,Iran (Islamic Republic of),ir
+1399,1222,Bisotun,0,47.4366666666,34.3883333333,C,Iran (Islamic Republic of),ir
+1542,1262,Armenian Monastic Ensembles of Iran,0,45.4733333333,38.9788888889,C,Iran (Islamic Republic of),ir
+1599,1315,Shushtar Historical Hydraulic System,0,48.8358333333,32.0186111111,C,Iran (Islamic Republic of),ir
+1680,1345,Sheikh Safi al-din Khānegāh and Shrine Ensemble in Ardabil,0,48.2913888889,38.2486111111,C,Iran (Islamic Republic of),ir
+1681,1346,Tabriz Historic Bazaar Complex,0,46.2930555556,38.0813888889,C,Iran (Islamic Republic of),ir
+1768,1372,The Persian Garden,0,53.1666666667,30.1666666667,C,Iran (Islamic Republic of),ir
+1821,1397,Masjed-e Jāmé of Isfahan  ,0,51.6852777778,32.6697222222,C,Iran (Islamic Republic of),ir
+1822,1398,Gonbad-e Qābus,0,55.169,37.2580277778,C,Iran (Islamic Republic of),ir
+1888,1422,Golestan Palace,0,51.4205111111,35.6803666667,C,Iran (Islamic Republic of),ir
+2073,1423,Cultural Landscape of Maymand,0,55.3755555556,30.1680555556,C,Iran (Islamic Republic of),ir
+1999,1455,Susa,0,48.2561111111,32.1894444444,C,Iran (Islamic Republic of),ir
+2000,1456,Shahr-i Sokhta,0,61.3277777778,30.5938888889,C,Iran (Islamic Republic of),ir
+2095,1505,Lut Desert,0,58.8388888889,30.2161111111,N,Iran (Islamic Republic of),ir
+2096,1506,The Persian Qanat,0,58.6544444444,34.29,C,Iran (Islamic Republic of),ir
+2148,1544,Historic City of Yazd,0,54.3691666667,31.9013888889,C,Iran (Islamic Republic of),ir
+2233,1568,Sassanid Archaeological Landscape of Fars Region,0,51.57045,29.7774805556,C,Iran (Islamic Republic of),ir
+2273,1584,Hyrcanian Forests,0,55.7242777778,37.4214722222,N,Iran (Islamic Republic of),ir
+1456,276,Samarra Archaeological City,1,43.8235430555,34.3409894444,C,Iraq,iq
+309,277,Hatra,1,42.71833,35.58806,C,Iraq,iq
+2293,278,Babylon,0,44.4208333333,32.5419694444,C,Iraq,iq
+1310,1130,Ashur (Qal'at Sherqat),1,43.2611111111,35.4566666667,C,Iraq,iq
+1980,1437,Erbil Citadel,0,44.0091666667,36.1911111111,C,Iraq,iq
+2042,1481,The Ahwar of Southern Iraq: Refuge of Biodiversity and the Relict Landscape of the Mesopotamian Cities,0,47.6577777778,31.5622222222,C/N,Iraq,iq
+780,659,Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne,0,-6.45,53.69167,C,Ireland,ie
+892,757,Sceilg Mhichíl,0,-10.53861,51.77194,C,Ireland,ie
+1214,1040,Masada,0,35.35275,31.3135,C,Israel,il
+1217,1042,Old City of Acre,0,35.08388889,32.92833333,C,Israel,il
+1274,1096,White City of Tel-Aviv – the Modern Movement,0,34.78333333,32.06666667,C,Israel,il
+1286,1107,Incense Route - Desert Cities in the Negev,0,35.16083,30.54111,C,Israel,il
+1287,1108,Biblical Tels - Megiddo Hazor Beer Sheba,0,35.18222,32.59722,C,Israel,il
+1581,1220,Bahá’i Holy Places in Haifa and the Western Galilee,0,34.9716488888,32.8293966667,C,Israel,il
+1969,1370,Caves of Maresha and Bet-Guvrin in the Judean Lowlands as a Microcosm of the Land of the Caves,0,34.8955555556,31.6,C,Israel,il
+1818,1393,Sites of Human Evolution at Mount Carmel: The Nahal Me’arot / Wadi el-Mughara Caves,0,34.9652777778,32.67,C,Israel,il
+2032,1471,Necropolis of Bet She’arim: A Landmark of Jewish Renewal,0,35.1269444444,32.7022222222,C,Israel,il
+100,93,Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci,0,9.1705,45.46588889,C,Italy,it
+101,94,Rock Drawings in Valcamonica,0,10.29733333,45.95705556,C,Italy,it
+2127,174,Historic Centre of Florence,0,11.25611,43.77306,C,Italy,it
+1891,175,Medici Villas and Gardens in Tuscany,0,11.3041666667,43.8577777778,C,Italy,it
+454,394,Venice and its Lagoon,0,12.33894444,45.43430556,C,Italy,it
+1558,395,Piazza del Duomo Pisa,0,10.39638889,43.72305556,C,Italy,it
+459,398,Castel del Monte,0,16.27094444,41.08480556,C,Italy,it
+646,549,18th-Century Royal Palace at Caserta with the Park the Aqueduct of Vanvitelli and the San Leucio Complex,0,14.32639,41.07333,C,Italy,it
+647,550,Historic Centre of San Gimignano,0,11.04167,43.46806,C,Italy,it
+793,670,The Sassi and the Park of the Rupestrian Churches of Matera,0,16.61027778,40.66638889,C,Italy,it
+843,712,City of Vicenza and the Palladian Villas of the Veneto,0,11.54944444,45.54916667,C,Italy,it
+848,717,Historic Centre of Siena,0,11.33166667,43.31861111,C,Italy,it
+1867,726,Historic Centre of Naples,0,14.26277778,40.85138889,C,Italy,it
+862,730,Crespi d'Adda,0,9.53833,45.59333,C,Italy,it
+867,733,Ferrara City of the Renaissance and its Po Delta,0,11.61944444,44.83777778,C,Italy,it
+930,787,The <I>Trulli</I> of Alberobello,0,17.23694,40.7825,C,Italy,it
+931,788,Early Christian Monuments of Ravenna,0,12.19625,44.42041667,C,Italy,it
+932,789,Historic Centre of the City of Pienza,0,11.67861111,43.07694444,C,Italy,it
+942,797,City of Verona,0,10.99388889,45.43861111,C,Italy,it
+1736,823,Residences of the Royal House of Savoy,0,7.68572,45.07253,C,Italy,it
+973,824,Botanical Garden (Orto Botanico) Padua,0,11.88066667,45.39911111,C,Italy,it
+2319,825,Archaeological Area and the Patriarchal Basilica of Aquileia,0,13.3675,45.76833333,C,Italy,it
+975,826,Portovenere Cinque Terre and the Islands (Palmaria Tino and Tinetto),0,9.72917,44.10694,C,Italy,it
+976,827,Cathedral Torre Civica and Piazza Grande Modena,0,10.92568,44.64624,C,Italy,it
+977,828,Historic Centre of Urbino,0,12.63333,43.725,C,Italy,it
+978,829,Archaeological Areas of Pompei Herculaneum and Torre Annunziata,0,14.48333333,40.75,C,Italy,it
+979,830,Costiera Amalfitana,0,14.6,40.65,C,Italy,it
+980,831,Archaeological Area of Agrigento,0,13.59333333,37.28972222,C,Italy,it
+981,832,Villa Romana del Casale,0,14.33417,37.36611,C,Italy,it
+982,833,Su Nuraxi di Barumini,0,8.991388889,39.70583333,C,Italy,it
+993,842,Cilento and Vallo di Diano National Park with the Archeological Sites of Paestum and Velia and the Certosa di Padula,0,15.26666667,40.28333333,C,Italy,it
+1060,907,Villa Adriana (Tivoli),0,12.77197222,41.94416667,C,Italy,it
+1061,908,Isole Eolie (Aeolian Islands),0,14.94558333,38.48786111,N,Italy,it
+1154,990,Assisi the Basilica of San Francesco and Other Franciscan Sites,0,12.62244444,43.06616667,C,Italy,it
+1196,1024,Late Baroque Towns of the Val di Noto (South-Eastern Sicily),0,15.06891667,36.89319444,C,Italy,it
+1197,1025,Villa d'Este Tivoli,0,12.79625,41.96391667,C,Italy,it
+1199,1026,Val d'Orcia,0,11.55,43.06666667,C,Italy,it
+1245,1068,<I>Sacri Monti</I> of Piedmont and Lombardy,0,9.169555556,45.97455556,C,Italy,it
+1338,1158,Etruscan Necropolises of Cerveteri and Tarquinia,0,12.10188889,42.00683333,C,Italy,it
+1377,1200,Syracuse and the Rocky Necropolis of Pantalica,0,15.29306,37.05944,C,Italy,it
+1388,1211,Genoa: <i>Le Strade Nuove</i> and the system of the<i> Palazzi dei Rolli</i>,0,8.9311111111,44.4122222222,C,Italy,it
+1609,1237,The Dolomites,0,12.1630555556,46.6130555556,N,Italy,it
+1518,1287,Mantua and Sabbioneta,0,10.7944444444,45.1594444444,C,Italy,it
+1780,1318,Longobards in Italy. Places of the Power (568-774 A.D.),0,13.4330555556,46.0941666667,C,Italy,it
+1971,1390,Vineyard Landscape of Piedmont: Langhe-Roero and Monferrato,0,7.9636111111,44.6086111111,C,Italy,it
+1910,1427,Mount Etna,0,14.9966666667,37.7561111111,N,Italy,it
+2048,1487,Arab-Norman Palermo and the Cathedral Churches of Cefalú and Monreale,0,13.3530555556,38.1108333333,C,Italy,it
+2163,1538,Ivrea industrial city of the 20th century,0,7.8691666667,45.4575,C,Italy,it
+2327,1571,Le Colline del Prosecco di Conegliano e Valdobbiadene,0,12.2261111111,45.9530277778,C,Italy,it
+2015,1356,Blue and John Crow Mountains ,0,-76.5711111111,18.0775,C/N,Jamaica,jm
+781,660,Buddhist Monuments in the Horyu-ji Area,0,135.7333333,34.61666667,C,Japan,jp
+782,661,Himeji-jo,0,134.7,34.83333333,C,Japan,jp
+783,662,Yakushima,0,130.5333333,30.33333333,N,Japan,jp
+784,663,Shirakami-Sanchi,0,140.13,40.47,N,Japan,jp
+814,688,Historic Monuments of Ancient Kyoto (Kyoto Uji and Otsu Cities),0,135.7694444,34.98055556,C,Japan,jp
+868,734,Historic Villages of Shirakawa-go and Gokayama,0,136.8833333,36.4,C,Japan,jp
+917,775,Hiroshima Peace Memorial (Genbaku Dome),0,132.45,34.38333333,C,Japan,jp
+918,776,Itsukushima Shinto Shrine,0,132.3246389,34.29441667,C,Japan,jp
+1021,870,Historic Monuments of Ancient Nara,0,135.8394444,34.67555556,C,Japan,jp
+1066,913,Shrines and Temples of Nikko,0,139.6105556,36.7475,C,Japan,jp
+1136,972,Gusuku Sites and Related Properties of the Kingdom of Ryukyu,0,127.6827778,26.20861111,C,Japan,jp
+2183,1142,Sacred Sites and Pilgrimage Routes in the Kii Mountain Range,0,135.7763889,33.83694444,C,Japan,jp
+1370,1193,Shiretoko,0,144.96583,43.94944,N,Japan,jp
+1737,1246,Iwami Ginzan Silver Mine and its Cultural Landscape,0,132.435,35.1127777777,C,Japan,jp
+1771,1277,Hiraizumi – Temples Gardens and Archaeological Sites Representing the Buddhist Pure Land,0,141.1077777778,39.0011111111,C,Japan,jp
+1770,1362,Ogasawara Islands,0,142.0997222222,27.7183333333,N,Japan,jp
+1883,1418,Fujisan sacred place and source of artistic inspiration,0,138.7275,35.3608333333,C,Japan,jp
+1992,1449,Tomioka Silk Mill and Related Sites,0,138.8877777778,36.2552777778,C,Japan,jp
+2045,1484,Sites of Japan’s Meiji Industrial Revolution: Iron and Steel Shipbuilding and Coal Mining,0,131.4122222222,34.4305555556,C,Japan,jp
+2216,1495,Hidden Christian Sites in the Nagasaki Region,0,128.9038888889,32.8022222222,C,Japan,jp
+2149,1535,Sacred Island of Okinoshima and Associated Sites in the Munakata Region ,0,130.1055555556,34.245,C,Japan,jp
+2284,1593,Mozu-Furuichi Kofun Group: Mounded Tombs of Ancient Japan,0,135.6094444444,34.5622222222,C,Japan,jp
+165,148,Old City of Jerusalem and its Walls,1,35.21666667,31.78333333,C,Jerusalem (Site proposed by Jordan),jp
+370,326,Petra,0,35.44333,30.33056,C,Jordan,jo
+372,327,Quseir Amra,0,36.58583,31.80194,C,Jordan,jo
+1271,1093,Um er-Rasas (Kastrom Mefa'a),0,35.92056,31.50167,C,Jordan,jo
+1758,1377,Wadi Rum Protected Area,0,35.4338888889,29.6397222222,C/N,Jordan,jo
+2019,1446,Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas),0,35.5527777778,31.8372222222,C,Jordan,jo
+1543,1102,Saryarka – Steppe and Lakes of Northern Kazakhstan,0,69.1888888889,50.4333333333,N,Kazakhstan,kz
+1281,1103,Mausoleum of Khoja Ahmed Yasawi,0,68.27444444,43.29305556,C,Kazakhstan,kz
+1326,1145,Petroglyphs within the Archaeological Landscape of Tamgaly,0,75.535,43.80333333,C,Kazakhstan,kz
+1902,800,Mount Kenya National Park/Natural Forest,0,37.3155555556,-0.155,N,Kenya,ke
+947,801,Lake Turkana National Parks,1,36.50366667,3.051305556,N,Kenya,ke
+1229,1055,Lamu Old Town,0,40.8525,-2.284444444,C,Kenya,ke
+1749,1060,Kenya Lake System in the Great Rift Valley,0,36.24,-0.4425,N,Kenya,ke
+1589,1231,Sacred Mijikenda Kaya Forests,0,39.5961111111,-3.9319444444,C,Kenya,ke
+1847,1295,Fort Jesus Mombasa,0,39.6794444444,-4.0627777778,C,Kenya,ke
+2312,1450,Thimlich Ohinga Archaeological Site,0,34.326107,-0.8913380556,C,Kenya,ke
+1683,1325,Phoenix Islands Protected Area,0,-172.8575,-3.6497222222,N,Kiribati,ki
+1699,1230,Sulaiman-Too Sacred Mountain,0,72.7827777778,40.5311111111,C,Kyrgyzstan,kg
+1954,479,Town of Luang Prabang,0,102.13333,19.88889,C,Lao People's Democratic Republic,la
+560,481,Vat Phou and Associated Ancient Settlements within the Champasak Cultural Landscape,0,105.8222222222,14.8483333333,C,Lao People's Democratic Republic,la
+2282,1587,Megalithic Jar Sites in Xiengkhuang – Plain of Jars,0,103.1522222222,19.4310555556,C,Lao People's Democratic Republic,la
+1003,852,Historic Centre of Riga,0,24.11667,56.95417,C,Latvia,lv
+329,293,Anjar,0,35.92972,33.72583,C,Lebanon,lb
+330,294,Baalbek,0,36.20494,34.00707,C,Lebanon,lb
+331,295,Byblos,0,35.6475,34.11917,C,Lebanon,lb
+335,299,Tyre,0,35.19444,33.27194,C,Lebanon,lb
+1001,850,Ouadi Qadisha (the Holy Valley) and the Forest of the Cedars of God (Horsh Arz el-Rab),0,36.04889,34.24333,C,Lebanon,lb
+203,183,Archaeological Site of Leptis Magna,1,14.29306,32.63833,C,Libya,ly
+204,184,Archaeological Site of Sabratha,1,12.485,32.80528,C,Libya,ly
+211,190,Archaeological Site of Cyrene,1,21.85833,32.825,C,Libya,ly
+321,287,Rock-Art Sites of Tadrart Acacus,1,10.33333,24.83333,C,Libya,ly
+415,362,Old Town of Ghadamès,1,9.5,30.13333333,C,Libya,ly
+1929,541,Vilnius Historic Centre,0,25.29306,54.68667,C,Lithuania,lt
+1317,1137,Kernavė  Archaeological Site (Cultural Reserve of Kernavė),0,24.83055556,54.88777778,C,Lithuania,lt
+827,699,City of Luxembourg: its Old Quarters and Fortifications,0,6.13333,49.61,C,Luxembourg,lu
+576,494,Tsingy de Bemaraha Strict Nature Reserve,0,44.75,-18.66667,N,Madagascar,mg
+1111,950,Royal Hill of Ambohimanga,0,47.56278,-18.75917,C,Madagascar,mg
+1434,1257,Rainforests of the Atsinanana,1,49.7025,-14.4597222222,N,Madagascar,mg
+323,289,Lake Malawi National Park,0,34.88333,-14.03333,N,Malawi,mw
+1450,476,Chongoni Rock-Art Area,0,34.2791666666,-14.2933333333,C,Malawi,mw
+1182,1012,Kinabalu Park,0,116.5,6.25,N,Malaysia,my
+1183,1013,Gunung Mulu National Park,0,114.91667,4.13333,N,Malaysia,my
+1871,1223,Melaka and George Town Historic Cities of the Straits of Malacca,0,100.3458333333,5.4213888889,C,Malaysia,my
+1820,1396,Archaeological Heritage of the Lenggong Valley,0,100.9723277778,5.0679083333,C,Malaysia,my
+127,116,Old Towns of Djenné,1,-4.555,13.90639,C,Mali,ml
+131,119,Timbuktu,1,-2.999444444,16.77333333,C,Mali,ml
+602,516,Cliff of Bandiagara (Land of the Dogons),0,-3.41667,14.33333,C/N,Mali,ml
+1320,1139,Tomb of Askia,1,-0.04456,16.2898,C,Mali,ml
+142,130,Ħal Saflieni Hypogeum,0,14.50739,35.87134,C,Malta,mt
+143,131,City of Valletta,0,14.51444,35.90056,C,Malta,mt
+2121,132,Megalithic Temples of Malta,0,14.26947,36.04908,C,Malta,mt
+1684,1339,Bikini Atoll Nuclear Test Site,0,165.3805555556,11.6,C,Marshall Islands,mh
+590,506,Banc d'Arguin National Park,0,-16.10889,20.23472,N,Mauritania,mr
+884,750,Ancient <I>Ksour</I> of Ouadane Chinguetti Tichitt and Oualata,0,-11.62361,20.92889,C,Mauritania,mr
+1404,1227,Aapravasi Ghat,0,57.5031666666,-20.1586388889,C,Mauritius,mu
+1860,1259,Le Morne Cultural Landscape,0,57.3283333333,-20.4519444444,C,Mauritius,mu
+473,410,Sian Ka'an,0,-87.79167,19.38333,N,Mexico,mx
+474,411,Pre-Hispanic City and National Park of Palenque,0,-92.05,17.48333,C,Mexico,mx
+475,412,Historic Centre of Mexico City and Xochimilco,0,-99.13278,19.41833,C,Mexico,mx
+477,414,Pre-Hispanic City of Teotihuacan,0,-98.84167,19.69167,C,Mexico,mx
+478,415,Historic Centre of Oaxaca and Archaeological Site of Monte Albán,0,-96.72167,17.06194,C,Mexico,mx
+479,416,Historic Centre of Puebla,0,-98.20833,19.04722,C,Mexico,mx
+561,482,Historic Town of Guanajuato and Adjacent Mines,0,-101.25556,21.01694,C,Mexico,mx
+562,483,Pre-Hispanic City of Chichen-Itza,0,-88.6,20.66667,C,Mexico,mx
+652,554,Whale Sanctuary of El Vizcaino,0,-114.22778,27.79222,N,Mexico,mx
+662,560,Archaeological Zone of Paquimé Casas Grandes,0,-107.95556,30.37583,C,Mexico,mx
+692,585,Historic Centre of Morelia,0,-101.19167,19.70444,C,Mexico,mx
+749,631,El Tajin Pre-Hispanic City,0,-97.3775,20.47639,C,Mexico,mx
+800,676,Historic Centre of Zacatecas,0,-102.55556,22.76667,C,Mexico,mx
+830,702,Earliest 16th-Century Monasteries on the Slopes of Popocatepetl,0,-98.89778,18.93472,C,Mexico,mx
+845,714,Rock Paintings of the Sierra de San Francisco,0,-112.91611,27.65556,C,Mexico,mx
+935,791,Pre-Hispanic Town of Uxmal,0,-89.77027778,20.36166667,C,Mexico,mx
+936,792,Historic Monuments Zone of Querétaro,0,-100.3666667,20.58333333,C,Mexico,mx
+963,815,Hospicio Cabañas Guadalajara,0,-103.3397222,20.67388889,C,Mexico,mx
+1013,862,Historic Monuments Zone of Tlacotalpan,0,-95.65833333,18.60833333,C,Mexico,mx
+1046,895,Historic Fortified Town of Campeche,0,-90.53722,19.84639,C,Mexico,mx
+1094,939,Archaeological Monuments Zone of Xochicalco,0,-99.275,18.81028,C,Mexico,mx
+1963,1061,Ancient Maya City and Protected Tropical Forests of Calakmul Campeche,0,-89.7372833333,18.0530277778,C/N,Mexico,mx
+1256,1079,Franciscan Missions in the Sierra Gorda of Querétaro,0,-99.46411111,21.20438889,C,Mexico,mx
+1316,1136,Luis Barragán House and Studio,0,-99.19833333,19.41833333,C,Mexico,mx
+1873,1182,Islands and Protected Areas of the Gulf of California,1,-112.54583,27.62667,N,Mexico,mx
+1386,1209,Agave Landscape and Ancient Industrial Facilities of Tequila,0,-103.7786111111,20.8630555555,C,Mexico,mx
+1427,1250,Central University City Campus of the <i>Universidad Nacional Autónoma de México</i> (UNAM),0,-99.1880555555,19.3322222222,C,Mexico,mx
+1493,1274,Protective town of San Miguel and the Sanctuary of Jesús Nazareno de Atotonilco,0,-100.7463888889,20.9144444444,C,Mexico,mx
+1521,1290,Monarch Butterfly Biosphere Reserve,0,-100.2416666667,19.6063888889,N,Mexico,mx
+1691,1351,Camino Real de Tierra Adentro,0,-102.3791666667,22.6080555556,C,Mexico,mx
+1693,1352,Prehistoric Caves of Yagul and Mitla in the Central Valley of Oaxaca,0,-96.4211111111,16.9508333333,C,Mexico,mx
+1858,1410,El Pinacate and Gran Desierto de Altar Biosphere Reserve,0,-113.9166666667,32,N,Mexico,mx
+2024,1463,Aqueduct of Padre Tembleque Hydraulic System,0,-98.6625666667,19.8352777778,C,Mexico,mx
+2102,1510,Archipiélago de Revillagigedo,0,-110.9752777778,18.7880555556,N,Mexico,mx
+2287,1534,Tehuacán-Cuicatlán Valley: originary habitat of Mesoamerica,0,-97.1871527778,17.9899611111,C/N,Mexico,mx
+2093,1503,Nan Madol: Ceremonial Centre of Eastern Micronesia,1,158.3308333333,6.8397222222,C,Micronesia (Federated States of),fm
+1259,1081,Orkhon Valley Cultural Landscape,0,102.8313889,47.55666667,C,Mongolia,mn
+1773,1382,Petroglyphic Complexes of the Mongolian Altai,0,88.3952777778,49.3338888889,C,Mongolia,mn
+2018,1440,Great Burkhan Khaldun Mountain and its surrounding sacred landscape,0,109.0093277778,48.7619777778,C,Mongolia,mn
+109,100,Durmitor National Park,0,19.0166,43.133,N,Montenegro,me
+2122,125,Natural and Culturo-Historical Region of Kotor,0,18.7,42.48333,C,Montenegro,me
+188,170,Medina of Fez,0,-4.97778,34.06111,C,Morocco,ma
+376,331,Medina of Marrakesh,0,-7.98667,31.63139,C,Morocco,ma
+515,444,Ksar of Ait-Ben-Haddou,0,-7.12889,31.04722,C,Morocco,ma
+888,753,Medina of Essaouira (formerly Mogador),0,-9.7703055556,31.5141111111,C,Morocco,ma
+937,793,Historic City of Meknes,0,-5.55833,33.88333,C,Morocco,ma
+1625,836,Archaeological Site of Volubilis,0,-5.55694,34.07389,C,Morocco,ma
+986,837,Medina of Tétouan (formerly known as Titawin),0,-5.36667,35.57083,C,Morocco,ma
+1234,1058,Portuguese City of Mazagan (El Jadida),0,-8.50194,33.25667,C,Morocco,ma
+1825,1401,Rabat Modern Capital and Historic City: a Shared Heritage,0,-6.8227777778,34.0241666667,C,Morocco,ma
+709,599,Island of Mozambique,0,40.73583,-15.03417,C,Mozambique,mz
+1987,1444,Pyu Ancient Cities,0,95.8186111111,22.47,C,Myanmar,mm
+2283,1588,Bagan,0,94.8844444444,21.1488888889,C,Myanmar,mm
+1432,1255,Twyfelfontein or /Ui-//aes,0,14.3725833333,-20.5955833333,C,Namibia,na
+1915,1430,Namib Sand Sea,0,15.4077777778,-24.8852777778,N,Namibia,na
+132,120,Sagarmatha National Park,0,86.91306,27.96528,N,Nepal,np
+1448,121,Kathmandu Valley ,0,85.30858,27.70395,C,Nepal,np
+318,284,Chitwan National Park,0,84.33333,27.5,N,Nepal,np
+788,666,Lumbini the Birthplace of the Lord Buddha,0,83.27611,27.46889,C,Nepal,np
+872,739,Schokland and Surroundings,0,5.771666667,52.63861111,C,Netherlands,nl
+894,759,Defence Line of Amsterdam,0,4.893055556,52.37444444,C,Netherlands,nl
+966,818,Mill Network at Kinderdijk-Elshout,0,4.649444444,51.8825,C,Netherlands,nl
+967,819,Historic Area of Willemstad Inner City and Harbour Curaçao,0,-68.90222,12.10194,C,Netherlands,nl
+1018,867,Ir.D.F. Woudagemaal (D.F. Wouda Steam Pumping Station),0,5.67889,52.84583,C,Netherlands,nl
+1051,899,Droogmakerij de Beemster (Beemster Polder),0,4.911111111,52.54888889,C,Netherlands,nl
+1129,965,Rietveld Schröderhuis (Rietveld Schröder House),0,5.1475555556,52.0853333333,C,Netherlands,nl
+1666,1349,Seventeenth-Century Canal Ring Area of Amsterdam inside the Singelgracht,0,4.8877777778,52.365,C,Netherlands,nl
+1984,1441,Van Nellefabriek,0,4.4183333333,51.9233333333,C,Netherlands,nl
+487,421,Tongariro National Park,0,175.5622222,-39.29083333,C/N,New Zealand,nz
+648,551,Te Wahipounamu – South West New Zealand,0,167.3196111,-45.03602778,N,New Zealand,nz
+1029,877,New Zealand Sub-Antarctic Islands,0,166.1044444,-50.75,N,New Zealand,nz
+728,613,Ruins of León Viejo,0,-86.61028,12.39722,C,Nicaragua,ni
+1789,1236,León Cathedral,0,-86.8780555556,12.435,C,Nicaragua,ni
+678,573,Air and Ténéré Natural Reserves,1,9,18,N,Niger,ne
+1905,1268,Historic Centre of Agadez,0,7.9913888889,16.9736111111,C,Niger,ne
+1093,938,Sukur Cultural Landscape,0,13.57194,10.74056,C,Nigeria,ng
+1298,1118,Osun-Osogbo Sacred Grove,0,4.55222,7.75556,C,Nigeria,ng
+1667,55,Røros Mining Town and the Circumference,0,11.3855555556,62.5738888889,C,Norway,no
+62,58,Urnes Stave Church,0,7.33333,61.3,C,Norway,no
+63,59,Bryggen,0,5.32306,60.39722,C,Norway,no
+403,352,Rock Art of Alta,0,23.18333,69.95,C,Norway,no
+2254,1143,Vegaøyan – The Vega Archipelago,0,11.75,65.61667,C,Norway,no
+1372,1195,West Norwegian Fjords – Geirangerfjord and Nærøyfjord,0,7.16667,62.11667,N,Norway,no
+2047,1486,Rjukan-Notodden Industrial Heritage Site,0,8.5936111111,59.8786111111,C,Norway,no
+502,433,Bahla Fort,0,57.30111,22.96417,C,Oman,om
+503,434,Archaeological Sites of Bat Al-Khutm and Al-Ayn,0,56.745,23.26986,C,Oman,om
+1180,1010,Land of Frankincense,0,53.64759,18.25333,C,Oman,om
+1384,1207,<i>Aflaj</i> Irrigation Systems of Oman,0,57.5360555555,22.9988888889,C,Oman,om
+2217,1537,Ancient City of Qalhat,0,59.3781111111,22.6952222222,C,Oman,om
+151,138,Archaeological Ruins at Moenjodaro,0,68.13888889,27.32916667,C,Pakistan,pk
+153,139,Taxila,0,72.8875,33.77916667,C,Pakistan,pk
+154,140,Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol,0,71.94583333,34.32083333,C,Pakistan,pk
+158,143,Historical Monuments at Makli Thatta,0,67.9,24.76666667,C,Pakistan,pk
+189,171,Fort and Shalamar Gardens in Lahore,0,74.30972222,31.59027778,C,Pakistan,pk
+693,586,Rohtas Fort,0,73.58888889,32.9625,C,Pakistan,pk
+1801,1386,Rock Islands Southern Lagoon,0,134.3525,7.246925,C/N,Palau,pw
+1922,1433,Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route Bethlehem,0,35.2075,31.7043527778,C,Palestine,ps
+2012,1492,Palestine: Land of Olives and Vines – Cultural Landscape of Southern Jerusalem Battir,1,35.1305555556,31.7197222222,C,Palestine,ps
+2230,1565,Hebron/Al-Khalil Old Town,1,35.1088888889,31.5241666667,C,Palestine,ps
+148,135,Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo,1,-79.65583333,9.553888889,C,Panama,pa
+177,159,Darien National Park,0,-77.54722222,7.736111111,N,Panama,pa
+934,790,Archaeological Site of Panamá Viejo and Historic District of Panamá,0,-79.54055556,8.951111111,C,Panama,pa
+1319,1138,Coiba National Park and its Special Zone of Marine Protection,0,-81.766,7.433,N,Panama,pa
+1546,887,Kuk Early Agricultural Site,0,144.3317222222,-5.7837111111,C,Papua New Guinea,pg
+768,648,Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue,0,-55.7,-27.13333,C,Paraguay,py
+304,273,City of Cuzco,0,-71.98333,-13.52222,C,Peru,pe
+305,274,Historic Sanctuary of Machu Picchu,0,-72.58333333,-13.11666667,C/N,Peru,pe
+375,330,Chavin (Archaeological Site),0,-77.1784535027,-9.5927725444,C,Peru,pe
+379,333,Huascarán National Park,0,-77.4,-9.33333,N,Peru,pe
+419,366,Chan Chan Archaeological Zone,1,-79.08333,-8.1,C,Peru,pe
+1705,402,Manú National Park,0,-71.75,-12.25,N,Peru,pe
+583,500,Historic Centre of Lima,0,-77.04306,-12.05139,C,Peru,pe
+644,548,Río Abiseo National Park,0,-77.25,-7.75,C/N,Peru,pe
+828,700,Lines and Geoglyphs of Nasca and Palpa,0,-75.14861,-14.72583,C,Peru,pe
+1186,1016,Historical Centre of the City of Arequipa,0,-71.53333333,-16.4,C,Peru,pe
+1615,1269,Sacred City of Caral-Supe,0,-77.5213888889,-10.8916666667,C,Peru,pe
+586,502,Historic City of Vigan,0,120.3875,17.575,C,Philippines,ph
+773,652,Puerto-Princesa Subterranean River National Park,0,118.9166667,10.16666667,N,Philippines,ph
+1554,653,Tubbataha Reefs Natural Park,0,119.8675,8.9533333333,N,Philippines,ph
+1955,677,Baroque Churches of the Philippines,0,120.97,14.59,C,Philippines,ph
+853,722,Rice Terraces of the Philippine Cordilleras,0,121.13667,16.93389,C,Philippines,ph
+2010,1403,Mount Hamiguitan Range Wildlife Sanctuary,0,126.1734305556,6.7171694444,N,Philippines,ph
+1739,29,Historic Centre of Kraków,0,19.9372222222,50.0613888889,C,Poland,pl
+2068,30,Historic Centre of Warsaw,0,21.01167,52.26639,C,Poland,pl
+34,31,Auschwitz Birkenau <br /><small>German Nazi Concentration and Extermination Camp (1940-1945)</small>,0,19.175,50.0388888889,C,Poland,pl
+1854,32,Wieliczka and Bochnia Royal Salt Mines,0,20.0638888889,49.9791666667,C,Poland,pl
+666,564,Old City of Zamość,0,23.26667,50.71667,C,Poland,pl
+984,835,Medieval Town of Toruń,0,18.61944,53.01,C,Poland,pl
+998,847,Castle of the Teutonic Order in Malbork,0,19.03333333,54.04166667,C,Poland,pl
+1058,905,Kalwaria Zebrzydowska: the Mannerist Architectural and Park Landscape Complex and Pilgrimage Park,0,19.66666667,49.86666667,C,Poland,pl
+1489,1053,Wooden Churches of Southern Małopolska,0,21.23333333,49.75,C,Poland,pl
+1228,1054,Churches of Peace in Jawor and Świdnica,0,16.19594444,51.05427778,C,Poland,pl
+1343,1165,Centennial Hall in Wrocław,0,17.0770138888,51.1069472222,C,Poland,pl
+2165,1539,Tarnowskie Góry Lead-Silver-Zinc Mine and its Underground Water Management System,0,18.8512277778,50.4426972222,C,Poland,pl
+2302,1599,Krzemionki Prehistoric Striped Flint Mining Region,0,21.5023055556,50.9679722222,C,Poland,pl
+227,206,Central Zone of the Town of Angra do Heroismo in the Azores,0,-27.22,38.655,C,Portugal,pt
+1630,263,Monastery of the Hieronymites and Tower of Belém in Lisbon,0,-9.21583,38.69194,C,Portugal,pt
+294,264,Monastery of Batalha,0,-8.82694,39.65778,C,Portugal,pt
+295,265,Convent of Christ in Tomar,0,-8.4175,39.60472,C,Portugal,pt
+414,361,Historic Centre of Évora,0,-7.90778,38.57306,C,Portugal,pt
+589,505,Monastery of Alcobaça,0,-8.97667,39.55,C,Portugal,pt
+854,723,Cultural Landscape of Sintra,0,-9.41667,38.78333,C,Portugal,pt
+890,755,Historic Centre of Oporto Luiz I Bridge and Monastery of Serra do Pilar ,0,-8.616666667,41.14166667,C,Portugal,pt
+1090,934,Laurisilva of Madeira,0,-17,32.76666667,N,Portugal,pt
+1204,1031,Historic Centre of Guimarães,0,-8.292803,41.443731,C,Portugal,pt
+1220,1046,Alto Douro Wine Region,0,-7.798888889,41.10166667,C,Portugal,pt
+1297,1117,Landscape of the Pico Island Vineyard Culture,0,-28.54116667,38.51344444,C,Portugal,pt
+1956,1367,Garrison Border Town of Elvas and its Fortifications,0,-7.1633222222,38.8806194444,C,Portugal,pt
+1899,1387,University of Coimbra – Alta and Sofia,0,-8.425775,40.2078111111,C,Portugal,pt
+2276,1573,Royal Building of <i>Mafra</i> – Palace Basilica Convent <i>Cerco</i> Garden and Hunting Park (<i>Tapada</i>),0,-9.3255277778,38.9371666667,C,Portugal,pt
+2280,1590,Sanctuary of Bom Jesus do Monte in Braga,0,-8.3770277778,41.5549444444,C,Portugal,pt
+1948,1402,Al Zubarah Archaeological Site,0,51.0297222222,25.9780555556,C,Qatar,qa
+869,736,Seokguram Grotto and Bulguksa Temple,0,129.35,35.78333333,C,Republic of Korea,kr
+870,737,Haeinsa Temple Janggyeong Panjeon the Depositories for the <I>Tripitaka Koreana</I> Woodblocks,0,128.1,35.8,C,Republic of Korea,kr
+871,738,Jongmyo Shrine,0,126.98333,37.55,C,Republic of Korea,kr
+964,816,Changdeokgung Palace Complex,0,126.9833333,37.55,C,Republic of Korea,kr
+965,817,Hwaseong Fortress,0,127.00833,37.27222,C,Republic of Korea,kr
+1140,976,Gyeongju Historic Areas,0,129.22667,35.78889,C,Republic of Korea,kr
+1141,977,Gochang Hwasun and Ganghwa Dolmen Sites,0,126.92917,34.96667,C,Republic of Korea,kr
+2314,1264,Jeju Volcanic Island and Lava Tubes,0,126.7202777777,33.4688888889,N,Republic of Korea,kr
+1957,1319,Royal Tombs of the Joseon Dynasty,0,128.4527777778,37.1972222222,C,Republic of Korea,kr
+1688,1324,Historic Villages of Korea: Hahoe and Yangdong,0,128.5166666667,36.5391666667,C,Republic of Korea,kr
+1982,1439,Namhansanseong,0,127.1811111111,37.4788888889,C,Republic of Korea,kr
+2038,1477,Baekje Historic Areas,0,127.1272222222,36.4619444444,C,Republic of Korea,kr
+2278,1498,Seowon Korean Neo-Confucian Academies,0,128.8434277778,36.7272972222,C,Republic of Korea,kr
+2227,1562,Sansa Buddhist Mountain Monasteries in Korea,0,127.8333333333,36.5419444444,C,Republic of Korea,kr
+695,588,Danube Delta,0,29.5,45.08333,N,Romania,ro
+705,596,Villages with Fortified Churches in Transylvania,0,24.77305556,46.13583333,C,Romania,ro
+706,597,Monastery of Horezu,0,24.01666667,45.18333333,C,Romania,ro
+1728,598,Churches of Moldavia,0,25.7127777778,47.7783333333,C,Romania,ro
+1055,902,Historic Centre of Sighişoara,0,24.79222222,46.21777778,C,Romania,ro
+1057,904,Wooden Churches of Maramureş,0,24.05583333,47.82083333,C,Romania,ro
+1059,906,Dacian Fortresses of the Orastie Mountains,0,23.31194444,45.62305556,C,Romania,ro
+1958,540,Historic Centre of Saint Petersburg and Related Groups of Monuments,0,30.31833,59.95,C,Russian Federation,ru
+639,544,Kizhi Pogost,0,35.2275,62.07138889,C,Russian Federation,ru
+640,545,Kremlin and Red Square Moscow,0,37.62972,55.74583,C,Russian Federation,ru
+716,604,Historic Monuments of Novgorod and Surroundings,0,31.28333,58.53333,C,Russian Federation,ru
+750,632,Cultural and Historic Ensemble of the Solovetsky Islands,0,35.66666667,65.08333333,C,Russian Federation,ru
+752,633,White Monuments of Vladimir and Suzdal,0,40.41666667,56.15,C,Russian Federation,ru
+754,634,Church of the Ascension Kolomenskoye,0,37.67389,55.65556,C,Russian Federation,ru
+778,657,Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad,0,38.1312,56.31035,C,Russian Federation,ru
+850,719,Virgin Komi Forests,0,58.9525,63.6258333333,N,Russian Federation,ru
+889,754,Lake Baikal,0,107.6625,53.17361111,N,Russian Federation,ru
+902,765,Volcanoes of Kamchatka,0,158.5,56.33333333,N,Russian Federation,ru
+2211,766,Central Sikhote-Alin,0,136.6611111111,46.6833333333,N,Russian Federation,ru
+907,768,Golden Mountains of Altai,0,86,50.46666667,N,Russian Federation,ru
+1052,900,Western Caucasus,0,40,44,N,Russian Federation,ru
+1144,980,Historic and Architectural Complex of the Kazan Kremlin,0,49.095,55.79111111,C,Russian Federation,ru
+2009,981,Bolgar Historical and Archaeological Complex,0,49.0563888889,54.9788888889,C,Russian Federation,ru
+1146,982,Ensemble of the Ferapontov Monastery,0,38.56666667,59.95,C,Russian Federation,ru
+1194,1023,Natural System of Wrangel Island Reserve,0,-179.7152778,71.18888889,N,Russian Federation,ru
+1247,1070,Citadel Ancient City and Fortress Buildings of Derbent,0,48.29719444,42.05297222,C,Russian Federation,ru
+1275,1097,Ensemble of the Novodevichy Convent,0,37.55508333,55.72611111,C,Russian Federation,ru
+1347,1170,Historical Centre of the City of Yaroslavl,0,39.87611,57.65278,C,Russian Federation,ru
+1644,1234,Putorana Plateau,0,94.1580555556,69.0469444444,N,Russian Federation,ru
+2116,1299,Lena Pillars Nature Park,0,127,60.6666666667,N,Russian Federation,ru
+2269,1523,Churches of the Pskov School of Architecture,0,28.3285555556,57.8071944444,C,Russian Federation,ru
+2168,1525,Assumption Cathedral and Monastery of the town-island of Sviyazhsk,0,48.6527777778,55.7702777778,C,Russian Federation,ru
+1063,910,Brimstone Hill Fortress National Park,0,-62.83722,17.34694,C,Saint Kitts and Nevis,kn
+1341,1161,Pitons Management Area,0,-61.07036111,13.80708333,N,Saint Lucia,lc
+1535,1245,San Marino Historic Centre and Mount Titano,0,12.4519444444,43.9327777778,C,San Marino,sm
+1524,1293,Al-Hijr Archaeological Site (Madâin Sâlih),0,37.955,26.7836111111,C,Saudi Arabia,sa
+1659,1329,At-Turaif District in ad-Dir'iyah,0,46.5724666667,24.7341333333,C,Saudi Arabia,sa
+1968,1361,Historic Jeddah the Gate to Makkah,0,39.1875,21.4838888889,C,Saudi Arabia,sa
+2033,1472,Rock Art in the Hail Region of Saudi Arabia,0,40.9130555556,28.0105555556,C,Saudi Arabia,sa
+2228,1563,Al-Ahsa Oasis an Evolving Cultural Landscape,0,49.6305694444,25.4021666667,C,Saudi Arabia,sa
+28,25,Djoudj National Bird Sanctuary,0,-16.16667,16.5,N,Senegal,sn
+29,26,Island of Gorée,0,-17.40083,14.66722,C,Senegal,sn
+171,153,Niokolo-Koba National Park,1,-12.71667,13.06667,N,Senegal,sn
+1561,956,Island of Saint-Louis,0,-16.50444,16.02778,C,Senegal,sn
+1754,1359,Saloum Delta,0,-16.4986111111,13.8352777778,C,Senegal,sn
+1832,1407,Bassari Country: Bassari Fula and Bedik Cultural Landscapes,0,-12.8458333333,12.5933333333,C,Senegal,sn
+104,96,Stari Ras and Sopoćani,0,20.42278,43.11889,C,Serbia,rs
+449,389,Studenica Monastery,0,20.53667,43.48611,C,Serbia,rs
+856,724,Medieval Monuments in Kosovo,1,20.2655555555,42.6611111111,C,Serbia,rs
+1430,1253,Gamzigrad-Romuliana Palace of Galerius,0,22.1861111111,43.8993055556,C,Serbia,rs
+205,185,Aldabra Atoll,0,46.41666667,-9.416666667,N,Seychelles,sc
+291,261,Vallée de Mai Nature Reserve,0,55.7375,-4.32917,N,Seychelles,sc
+2044,1483,Singapore Botanic Gardens,0,103.8161111111,1.3152777778,C,Singapore,sg
+734,618,Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity,0,18.9,48.46111,C,Slovakia,sk
+1537,620,Levoča Spišský Hrad and the Associated Cultural Monuments,0,20.7675,48.9994444444,C,Slovakia,sk
+740,622,Vlkolínec,0,19.2783333333,49.0391666667,C,Slovakia,sk
+1137,973,Bardejov Town Conservation Reserve,0,21.2755555556,49.2927777778,C,Slovakia,sk
+1491,1273,Wooden Churches of the Slovak part of the Carpathian Mountain Area,0,19.5583333333,49.3361111111,C,Slovakia,sk
+450,390,Škocjan Caves,0,14,45.66667,N,Slovenia,si
+1005,854,East Rennell,1,160.33333,-11.68333,N,Solomon Islands,sb
+1067,914,iSimangaliso Wetland Park,0,32.55,-27.83889,N,South Africa,za
+1069,915,Fossil Hominid Sites of South Africa,0,29.17694,-24.15861,C,South Africa,za
+1070,916,Robben Island,0,18.36666667,-33.8,C,South Africa,za
+2013,1007,Cape Floral Region Protected Areas,0,18.475,-34.3611111111,N,South Africa,za
+2061,1099,Mapungubwe Cultural Landscape,0,29.23889,-22.1925,C,South Africa,za
+1342,1162,Vredefort Dome,0,27.26,-26.86,N,South Africa,za
+1442,1265,Richtersveld Cultural and Botanical Landscape,0,17.2038888888,-28.6,C,South Africa,za
+2133,1545,ǂKhomani Cultural Landscape,0,20.3745833333,-25.6876111111,C,South Africa,za
+2240,1575,Barberton Makhonjwa Mountains,0,31.0138888889,-25.9738888889,N,South Africa,za
+1506,310,Cave of Altamira and Paleolithic Cave Art of Northern Spain,0,-4.116166667,43.38252778,C,Spain,es
+2124,311,Old Town of Segovia and its Aqueduct,0,-4.11675,40.94847222,C,Spain,es
+353,312,Monuments of Oviedo and the Kingdom of the Asturias,0,-5.84303,43.36262,C,Spain,es
+355,313,Historic Centre of Cordoba,0,-4.779722222,37.87919444,C,Spain,es
+357,314,Alhambra Generalife and Albayzín Granada,0,-3.59444,37.17667,C,Spain,es
+2070,316,Burgos Cathedral,0,-3.7040111111,42.3407333333,C,Spain,es
+361,318,Monastery and Site of the Escurial Madrid,0,-4.126416667,40.58175,C,Spain,es
+364,320,Works of Antoni Gaudí ,0,2.152972,41.41338,C,Spain,es
+395,347,Santiago de Compostela (Old Town),0,-8.54468,42.88076,C,Spain,es
+1562,348,Old Town of Ávila with its Extra-Muros Churches,0,-4.70012,40.65645,C,Spain,es
+2188,378,Mudejar Architecture of Aragon,0,-1.10722,40.34389,C,Spain,es
+435,379,Historic City of Toledo,0,-4.029416667,39.86688889,C,Spain,es
+436,380,Garajonay National Park,0,-17.23722222,28.12625,N,Spain,es
+439,381,Old City of Salamanca,0,-5.6645,40.96525,C,Spain,es
+1747,383,Cathedral Alcázar and Archivo de Indias in Seville,0,-5.99155,37.38384,C,Spain,es
+2189,384,Old Town of Cáceres,0,-6.37,39.47444,C,Spain,es
+481,417,Ibiza Biodiversity and Culture,0,1.435194444,38.91113889,C/N,Spain,es
+605,518,Poblet Monastery,0,1.0825,41.38083,C,Spain,es
+611,522,Renaissance Monumental Ensembles of Úbeda and Baeza,0,-3.37122,38.01131,C,Spain,es
+785,664,Archaeological Ensemble of Mérida,0,-6.33778,38.91611,C,Spain,es
+786,665,Royal Monastery of Santa María de Guadalupe,0,-5.3275,39.45285,C,Spain,es
+2055,669,Routes of Santiago de Compostela: <i>Camino Francés</i> and Routes of Northern Spain ,0,-6.4147222222,43.335,C,Spain,es
+810,685,Doñana National Park,0,-6.358861,36.9477,N,Spain,es
+924,781,Historic Walled Town of Cuenca,0,-2.13174,40.07662,C,Spain,es
+925,782,La Lonja de la Seda de Valencia,0,-0.378444444,39.47441667,C,Spain,es
+949,803,Las Médulas,0,-6.77075,42.46939,C,Spain,es
+1631,804,Palau de la Música Catalana and Hospital de Sant Pau Barcelona,0,2.175,41.38778,C,Spain,es
+951,805,San Millán Yuso and Suso Monasteries,0,-2.86496,42.32586,C,Spain,es
+1026,874,Rock Art of the Mediterranean Basin on the Iberian Peninsula,0,-1.03331,39.78995,C,Spain,es
+1027,875,Archaeological Ensemble of Tárraco,0,1.259305556,41.11472222,C,Spain,es
+1028,876,University and Historic Precinct of Alcalá de Henares,0,-3.368055556,40.48138889,C,Spain,es
+1084,929,San Cristóbal de La Laguna,0,-16.31177778,28.47788889,C,Spain,es
+1085,930,Palmeral of Elche,0,-0.716666667,38.26666667,C,Spain,es
+1151,987,Roman Walls of Lugo,0,-7.55333,43.01111,C,Spain,es
+1152,988,Catalan Romanesque Churches of the Vall de Boí,0,0.803611111,42.50472222,C,Spain,es
+1153,989,Archaeological Site of Atapuerca,0,-3.547222222,42.37138889,C,Spain,es
+1218,1044,Aranjuez Cultural Landscape,0,-3.60934,40.03645,C,Spain,es
+1394,1217,Vizcaya Bridge,0,-3.0168333333,43.323175,C,Spain,es
+1435,1258,Teide National Park,0,-16.6436111111,28.2713888889,N,Spain,es
+1616,1312,Tower of Hercules,0,-8.4063888889,43.3858333333,C,Spain,es
+1781,1371,Cultural Landscape of the Serra de Tramuntana,0,2.6947222222,39.7308333333,C,Spain,es
+2088,1501,Antequera Dolmens Site,0,-4.5444444444,37.025,C,Spain,es
+2225,1560,Caliphate City of Medina Azahara,0,-4.8676944444,37.8858888889,C,Spain,es
+2263,1578,Risco Caido and the Sacred Mountains of Gran Canaria Cultural Landscape,0,-15.6611944444,28.0443888889,C,Spain,es
+221,200,Sacred City of Anuradhapura,0,80.38333333,8.333333333,C,Sri Lanka,lk
+222,201,Ancient City of Polonnaruwa,0,81.00055556,7.915833333,C,Sri Lanka,lk
+223,202,Ancient City of Sigiriya,0,80.75,7.95,C,Sri Lanka,lk
+468,405,Sinharaja Forest Reserve,0,80.5,6.416666667,N,Sri Lanka,lk
+522,450,Sacred City of Kandy,0,80.64027778,7.293611111,C,Sri Lanka,lk
+523,451,Old Town of Galle and its Fortifications,0,80.21861111,6.021388889,C,Sri Lanka,lk
+663,561,Golden Temple of Dambulla,0,80.64916667,7.856666667,C,Sri Lanka,lk
+1650,1203,Central Highlands of Sri Lanka,0,80.8021,7.45245,N,Sri Lanka,lk
+2177,262,Sanganeb Marine National Park and Dungonab Bay – Mukkawar Island Marine National Park,0,37.4430555556,19.7361111111,N,Sudan,sd
+1250,1073,Gebel Barkal and the Sites of the Napatan Region,0,31.8280277778,18.537,C,Sudan,sd
+1760,1336,Archaeological Sites of the Island of Meroe,0,33.7166666667,16.9333333333,C,Sudan,sd
+1096,940,Historic Inner City of Paramaribo,0,-55.15,5.82611,C,Suriname,sr
+1187,1017,Central Suriname Nature Reserve,0,-56.5,4,N,Suriname,sr
+653,555,Birka and Hovgården,0,17.54264,59.33514,C,Sweden,se
+655,556,Engelsberg Ironworks,0,16.00833,59.96667,C,Sweden,se
+657,557,Rock Carvings in Tanum,0,11.34111,58.70111,C,Sweden,se
+659,558,Skogskyrkogården,0,18.09944,59.27556,C,Sweden,se
+660,559,Royal Domain of Drottningholm,0,17.88333,59.32306,C,Sweden,se
+864,731,Hanseatic Town of Visby,0,18.29583,57.64167,C,Sweden,se
+898,762,Church Town of Gammelstad Luleå ,0,22.02861,65.64611,C,Sweden,se
+916,774,Laponian Area,0,17.58333,67.33333,C/N,Sweden,se
+1022,871,Naval Port of Karlskrona,0,15.58333,56.16667,C,Sweden,se
+1132,968,Agricultural Landscape of Southern Öland,0,16.48333,56.325,C,Sweden,se
+1200,1027,Mining Area of the Great Copper Mountain in Falun,0,15.63083,60.60472,C,Sweden,se
+1314,1134,Grimeton Radio Station Varberg,0,12.38333333,57.1,C,Sweden,se
+1814,1282,Decorated Farmhouses of Hälsingland,0,16.1958333333,61.7072222222,C,Sweden,se
+297,267,Old City of Berne,0,7.45028,46.94806,C,Switzerland,ch
+298,268,Abbey of St Gall,0,9.37778,47.42333,C,Switzerland,ch
+299,269,Benedictine Convent of St John at Müstair,0,10.44765,46.62945,C,Switzerland,ch
+1036,884,Three Castles Defensive Wall and Ramparts of the Market-Town of Bellinzona,0,9.02242,46.19314,C,Switzerland,ch
+1211,1037,Swiss Alps Jungfrau-Aletsch,0,8.0333333333,46.5,N,Switzerland,ch
+1497,1179,Swiss Tectonic Arena Sardona,0,9.25,46.9166666667,N,Switzerland,ch
+1420,1243,Lavaux Vineyard Terraces,0,6.7461111111,46.4919444444,C,Switzerland,ch
+1582,1302,La Chaux-de-Fonds / Le Locle Watchmaking Town Planning,0,6.8327777778,47.1038888889,C,Switzerland,ch
+1862,20,Ancient City of Damascus,1,36.30639,33.51139,C,Syrian Arab Republic,sy
+24,21,Ancient City of Aleppo,1,37.1627777778,36.1991666667,C,Syrian Arab Republic,sy
+2209,22,Ancient City of Bosra,1,36.48167,32.51806,C,Syrian Arab Republic,sy
+2256,23,Site of Palmyra,1,38.26667,34.55417,C,Syrian Arab Republic,sy
+1406,1229,Crac des Chevaliers and Qal’at Salah El-Din,1,36.2630555555,34.7816666667,C,Syrian Arab Republic,sy
+1761,1348,Ancient Villages of Northern Syria,1,36.8441666667,36.3341666667,C,Syrian Arab Republic,sy
+1651,1141,Proto-urban Site of Sarazm,0,67.4602777778,39.5077777778,C,Tajikistan,tj
+1907,1252,Tajik National Park (Mountains of the Pamirs),0,72.3052777778,38.765,N,Tajikistan,tj
+679,574,Historic Town of Sukhothai and Associated Historic Towns,0,99.78972,17.00722,C,Thailand,th
+680,575,Ban Chiang Archaeological Site,0,103.35833,17.54861,C,Thailand,th
+681,576,Historic City of Ayutthaya,0,100.56056,14.34778,C,Thailand,th
+698,590,Dong Phayayen-Khao Yai Forest Complex,0,102.05,14.33,N,Thailand,th
+699,591,Thungyai-Huai Kha Khaeng Wildlife Sanctuaries,0,98.91667,15.33333,N,Thailand,th
+1321,1140,Koutammakou the Land of the Batammariba,0,1.133333333,10.06666667,C,Togo,tg
+11,8,Ichkeul National Park,0,9.67472,37.16361,N,Tunisia,tn
+1744,36,Medina of Tunis,0,10.16667,36.81667,C,Tunisia,tn
+41,37,Archaeological Site of Carthage,0,10.32333,36.85278,C,Tunisia,tn
+1741,38,Amphitheatre of El Jem,0,10.70694,35.29639,C,Tunisia,tn
+378,332,Punic Town of Kerkuane and its Necropolis,0,11.09917,36.94639,C,Tunisia,tn
+1743,498,Medina of Sousse,0,10.63861,35.82778,C,Tunisia,tn
+1742,499,Kairouan,0,10.10389,35.68167,C,Tunisia,tn
+938,794,Dougga / Thugga,0,9.22028,36.42361,C,Tunisia,tn
+2255,356,Historic Areas of Istanbul,0,28.97993,41.00847,C,Turkey,tr
+410,357,Göreme National Park and the Rock Sites of Cappadocia,0,34.85,38.66667,C/N,Turkey,tr
+411,358,Great Mosque and Hospital of Divriği,0,38.121826,39.371271,C,Turkey,tr
+432,377,Hattusha: the Hittite Capital,0,34.62056,40.01389,C,Turkey,tr
+520,448,Nemrut Dağ,0,38.76369,38.03661,C,Turkey,tr
+563,484,Xanthos-Letoon,0,29.32028,36.335,C,Turkey,tr
+564,485,Hierapolis-Pamukkale,0,29.12333,37.92389,C/N,Turkey,tr
+729,614,City of Safranbolu,0,32.68972,41.26,C,Turkey,tr
+1000,849,Archaeological Site of Troy,0,26.239,39.95644,C,Turkey,tr
+2014,1018,Ephesus,0,27.3594444444,37.9291666667,C,Turkey,tr
+1784,1366,Selimiye Mosque and its Social Complex,0,26.5594444444,41.6777777778,C,Turkey,tr
+1829,1405,Neolithic Site of Çatalhöyük,0,32.8280555556,37.6666666667,C,Turkey,tr
+1995,1452,Bursa and Cumalıkızık: the Birth of the Ottoman Empire,0,29.0623361111,40.1847305556,C,Turkey,tr
+2001,1457,Pergamon and its Multi-Layered Cultural Landscape,0,27.18,39.1258333333,C,Turkey,tr
+2049,1488,Diyarbakır Fortress and Hevsel Gardens Cultural Landscape,0,40.2393083333,37.9031,C,Turkey,tr
+2110,1518,Archaeological Site of Ani,0,43.5666666667,40.5,C,Turkey,tr
+2170,1519,Aphrodisias,0,28.7236111111,37.7083333333,C,Turkey,tr
+2237,1572,Göbekli Tepe,0,38.9223638889,37.2232419444,C,Turkey,tr
+1038,886,State Historical and Cultural Park “Ancient Merv”,0,62.1775,37.70083,C,Turkmenistan,tm
+1376,1199,Kunya-Urgench,0,59.08494,42.18318,C,Turkmenistan,tm
+1471,1242,Parthian Fortresses of Nisa,0,58.1986111111,37.9997222222,C,Turkmenistan,tm
+806,682,Bwindi Impenetrable National Park,0,29.66138889,-1.080555556,N,Uganda,ug
+808,684,Rwenzori Mountains National Park,0,29.92416667,0.223611111,N,Uganda,ug
+1192,1022,Tombs of Buganda Kings at Kasubi,1,32.55138889,0.348611111,C,Uganda,ug
+617,527,Kiev: Saint-Sophia Cathedral and Related Monastic Buildings Kiev-Pechersk Lavra,0,30.51686,50.45258,C,Ukraine,ua
+1632,865,L'viv – the Ensemble of the Historic Centre,0,24.03198,49.84163,C,Ukraine,ua
+1785,1330,Residence of Bukovinian and Dalmatian Metropolitans,0,25.9247222222,48.2966666667,C,Ukraine,ua
+1895,1411,Ancient City of Tauric Chersonese and its Chora,0,33.4913888889,44.6108333333,C,Ukraine,ua
+1762,1343,Cultural Sites of Al Ain (Hafit Hili Bidaa Bint Saud and Oases Areas),0,55.8063888889,24.0677777778,C,United Arab Emirates,ae
+2178,369,Giant's Causeway and Causeway Coast,0,-6.485277778,55.25,N,United Kingdom of Great Britain and Northern Ireland,gb
+1634,370,Durham Castle and Cathedral,0,-1.576111111,54.77472222,C,United Kingdom of Great Britain and Northern Ireland,gb
+425,371,Ironbridge Gorge,0,-2.472777778,52.62638889,C,United Kingdom of Great Britain and Northern Ireland,gb
+1930,372,Studley Royal Park including the Ruins of Fountains Abbey,0,-1.573055556,54.11611111,C,United Kingdom of Great Britain and Northern Ireland,gb
+1633,373,Stonehenge Avebury and Associated Sites,0,-1.825277778,51.17888889,C,United Kingdom of Great Britain and Northern Ireland,gb
+429,374,Castles and Town Walls of King Edward in Gwynedd,0,-4.276944444,53.13972222,C,United Kingdom of Great Britain and Northern Ireland,gb
+2202,387,St Kilda,0,-8.576666667,57.81722222,C/N,United Kingdom of Great Britain and Northern Ireland,gb
+2171,422,The English Lake District,0,-3.0824166667,54.4766111111,C,United Kingdom of Great Britain and Northern Ireland,gb
+492,425,Blenheim Palace,0,-1.361388889,51.84194444,C,United Kingdom of Great Britain and Northern Ireland,gb
+1635,426,Palace of Westminster and Westminster Abbey including Saint Margaret’s Church,0,-0.128611111,51.49972222,C,United Kingdom of Great Britain and Northern Ireland,gb
+495,428,City of Bath,0,-2.358611111,51.38138889,C,United Kingdom of Great Britain and Northern Ireland,gb
+497,429,New Lanark,0,-3.783055556,55.66333333,C,United Kingdom of Great Britain and Northern Ireland,gb
+566,487,Henderson Island,0,-128.333333333,-24.3666666667,N,United Kingdom of Great Britain and Northern Ireland,gb
+567,488,Tower of London,0,-0.076111111,51.50805556,C,United Kingdom of Great Britain and Northern Ireland,gb
+578,496,Canterbury Cathedral St Augustine's Abbey and St Martin's Church,0,1.083333333,51.28,C,United Kingdom of Great Britain and Northern Ireland,gb
+2125,514,Heart of Neolithic Orkney,0,-3.188666667,58.99605556,C,United Kingdom of Great Britain and Northern Ireland,gb
+860,728,Old and New Towns of Edinburgh,0,-3.216666667,55.95,C,United Kingdom of Great Britain and Northern Ireland,gb
+874,740,Gough and Inaccessible Islands,0,-9.928611111,-40.32472222,N,United Kingdom of Great Britain and Northern Ireland,gb
+939,795,Maritime Greenwich,0,-0.0037777778,51.4811666667,C,United Kingdom of Great Britain and Northern Ireland,gb
+1147,983,Historic Town of St George and Related Fortifications Bermuda,0,-64.67777778,32.37944444,C,United Kingdom of Great Britain and Northern Ireland,gb
+1148,984,Blaenavon Industrial Landscape,0,-3.088055556,51.77638889,C,United Kingdom of Great Britain and Northern Ireland,gb
+1201,1028,Saltaire,0,-1.788333333,53.83916667,C,United Kingdom of Great Britain and Northern Ireland,gb
+1202,1029,Dorset and East Devon Coast,0,-2.989888889,50.70555556,N,United Kingdom of Great Britain and Northern Ireland,gb
+1203,1030,Derwent Valley Mills,0,-1.488055556,53.02888889,C,United Kingdom of Great Britain and Northern Ireland,gb
+1262,1084,Royal Botanic Gardens Kew,0,-0.294027778,51.48194444,C,United Kingdom of Great Britain and Northern Ireland,gb
+1331,1150,Liverpool – Maritime Mercantile City,1,-2.994444444,53.40666667,C,United Kingdom of Great Britain and Northern Ireland,gb
+1392,1215,Cornwall and West Devon Mining Landscape,0,-5.3836111111,50.1361111111,C,United Kingdom of Great Britain and Northern Ireland,gb
+1583,1303,Pontcysyllte Aqueduct and Canal,0,-3.0877777778,52.9702777778,C,United Kingdom of Great Britain and Northern Ireland,gb
+2046,1485,The Forth Bridge,0,-3.3888888889,56.0011111111,C,United Kingdom of Great Britain and Northern Ireland,gb
+2087,1500,Gorham's Cave Complex,0,-5.3420611111,36.1226694444,C,United Kingdom of Great Britain and Northern Ireland,gb
+2285,1594,Jodrell Bank Observatory,0,-2.3038611111,53.2339166667,C,United Kingdom of Great Britain and Northern Ireland,gb
+1639,39,Ngorongoro Conservation Area,0,35.54083,-3.18722,C/N,United Republic of Tanzania,tz
+159,144,Ruins of Kilwa Kisiwani and Ruins of Songo Mnara,0,39.52278,-8.95778,C,United Republic of Tanzania,tz
+174,156,Serengeti National Park,0,34.56667,-2.33333,N,United Republic of Tanzania,tz
+192,173,Stone Town of Zanzibar,0,39.18917,-6.16306,C,United Republic of Tanzania,tz
+1924,199,Selous Game Reserve,1,37.4,-9,N,United Republic of Tanzania,tz
+466,403,Kilimanjaro National Park,0,37.36667,-3.06667,N,United Republic of Tanzania,tz
+1449,1183,Kondoa Rock-Art Sites,0,35.8338888888,-4.7244444444,C,United Republic of Tanzania,tz
+30,27,Mesa Verde National Park,0,-108.4855556,37.26166667,C,United States of America,us
+31,28,Yellowstone National Park,0,-110.82778,44.46056,N,United States of America,us
+81,75,Grand Canyon National Park,0,-112.0905556,36.10083333,N,United States of America,us
+82,76,Everglades National Park,1,-80.99638889,25.55444444,N,United States of America,us
+84,78,Independence Hall,0,-75.15,39.94861111,C,United States of America,us
+147,134,Redwood National and State Parks,0,-123.9980556,41.37388889,N,United States of America,us
+168,150,Mammoth Cave National Park,0,-86.10305556,37.18722222,N,United States of America,us
+169,151,Olympic National Park,0,-123.4488889,47.74833333,N,United States of America,us
+2191,198,Cahokia Mounds State Historic Site,0,-90.06138889,38.65861111,C,United States of America,us
+289,259,Great Smoky Mountains National Park,0,-83.43555556,35.59305556,N,United States of America,us
+2192,266,La Fortaleza and San Juan National Historic Site in Puerto Rico,0,-66.125,18.46666667,C,United States of America,us
+346,307,Statue of Liberty,0,-74.04472222,40.68944444,C,United States of America,us
+347,308,Yosemite National Park,0,-119.5966667,37.74611111,N,United States of America,us
+405,353,Chaco Culture,0,-107.9708333,36.06377778,C,United States of America,us
+472,409,Hawaii Volcanoes National Park,0,-155.1236111,19.40083333,N,United States of America,us
+2126,442,Monticello and the University of Virginia in Charlottesville,0,-78.50388889,38.03277778,C,United States of America,us
+573,492,Taos Pueblo,0,-105.54167,36.43889,C,United States of America,us
+852,721,Carlsbad Caverns National Park,0,-104.3833333,32.16666667,N,United States of America,us
+1672,1326,Papahānaumokuākea,0,-170.14582,25.34907,C/N,United States of America,us
+1978,1435,Monumental Earthworks of Poverty Point,0,-91.4063888889,32.6369444444,C,United States of America,us
+2027,1466,San Antonio Missions,0,-98.46,29.3280555556,C,United States of America,us
+2322,1496,The 20th-Century Architecture of Frank Lloyd Wright,0,-79.4664755556,39.9055708333,C,United States of America,us
+881,747,Historic Quarter of the City of Colonia del Sacramento,0,-57.85333333,-34.46777778,C,Uruguay,uy
+2025,1464,Fray Bentos Industrial Landscape,0,-58.3316666667,-33.1177777778,C,Uruguay,uy
+638,543,Itchan Kala,0,60.36389,41.37833,C,Uzbekistan,uz
+2184,602,Historic Centre of Bukhara,0,64.42861,39.77472,C,Uzbekistan,uz
+715,603,Samarkand  – Crossroad of Cultures,0,67,39.66861,C,Uzbekistan,uz
+1037,885,Historic Centre of Shakhrisyabz,1,66.83333,39.05,C,Uzbekistan,uz
+1511,1280,Chief Roi Mata’s Domain,0,168.1777194444,-17.6280694444,C,Vanuatu,vu
+779,658,Coro and its Port,1,-69.68333333,11.4,C,Venezuela (Bolivarian Republic of),ve
+829,701,Canaima National Park,0,-61.5,5.33333,N,Venezuela (Bolivarian Republic of),ve
+1150,986,Ciudad Universitaria de Caracas,0,-66.89068,10.49073,C,Venezuela (Bolivarian Republic of),ve
+796,672,Ha Long Bay,0,107.1,20.9,N,Viet Nam,vn
+802,678,Complex of Hué Monuments,0,107.57778,16.46944,C,Viet Nam,vn
+1109,948,Hoi An Ancient Town,0,108.3333333,15.88333333,C,Viet Nam,vn
+1110,949,My Son Sanctuary,0,108.5666667,15.51666667,C,Viet Nam,vn
+2059,951,Phong Nha-Ke Bang National Park,0,106.15125,17.5372222222,N,Viet Nam,vn
+1689,1328,Central Sector of the Imperial Citadel of Thang Long - Hanoi,0,105.8372222222,21.0394444444,C,Viet Nam,vn
+1775,1358,Citadel of the Ho Dynasty,0,105.6047222222,20.0780555556,C,Viet Nam,vn
+2179,1438,Trang An Landscape Complex,0,105.8963888889,20.2566666667,C/N,Viet Nam,vn
+213,192,Old Walled City of Shibam,1,48.62667,15.92694,C,Yemen,ye
+444,385,Old City of Sana'a,1,44.20805556,15.35555556,C,Yemen,ye
+725,611,Historic Town of Zabid,1,43.3155277778,14.1953333333,C,Yemen,ye
+1548,1263,Socotra Archipelago,0,53.8333333333,12.5,N,Yemen,ye
+339,302,Mana Pools National Park Sapi and Chewore Safari Areas,0,29.40805556,-15.81944444,N,Zimbabwe,zw
+345,306,Matobo Hills,0,28.5,-20.5,C,Zimbabwe,zw
+417,364,Great Zimbabwe National Monument,0,30.93333333,-20.28333333,C,Zimbabwe,zw
+418,365,Khami Ruins National Monument,0,28.37666667,-20.15833333,C,Zimbabwe,zw
+2152,1133,Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe,0,22.3388888889,49.0097222222,N,Albania Austria Belgium Bulgaria Croatia Germany Italy Romania Slovakia Slovenia Spain Ukraine,al at be bg hr de it ro sk si es ua
+2313,99,Natural and Cultural Heritage of the Ohrid region,0,20.6460555556,41.06925,C/N,Albania North Macedonia,al mk
+2003,1459,Qhapaq Ñan Andean Road System,0,-69.5916666667,-18.25,C,Argentina Bolivia (Plurinational State of) Chile Colombia Ecuador Peru,ar bo cl co ec pe
+326,275,Jesuit Missions of the Guaranis: San Ignacio Mini Santa Ana Nuestra Señora de Loreto and Santa Maria Mayor (Argentina) Ruins of Sao Miguel das Missoes (Brazil),0,-54.26583333,-28.54333333,C,Argentina Brazil,ar br
+1782,1363,Prehistoric Pile Dwellings around the Alps,0,8.2075,47.2783333333,C,Austria France Germany Italy Slovenia Switzerland,at fr de it si ch
+913,772,Fertö / Neusiedlersee Cultural Landscape,0,16.72272222,47.71927778,C,Austria Hungary,at hu
+1364,1187,Struve Geodetic Arc,0,26.3377777777,59.0577777778,C,Belarus Estonia Finland Latvia Lithuania Norway Republic of Moldova Russian Federation Sweden Ukraine,by ee fi lv lt no md ru se ua
+2005,33,Białowieża Forest,0,23.9811111111,52.7275,N,Belarus Poland,by pl
+1100,943,Belfries of Belgium and France,0,3.23139,50.17444,C,Belgium France,be fr
+2085,1321,The Architectural Work of Le Corbusier an Outstanding Contribution to the Modern Movement,0,6.8293361111,46.4684138889,C,Belgium France Germany Switzerland India Japan Argentina,be fr de ch in jp ar
+2129,749,W-Arly-Pendjari Complex,0,2.4877777778,11.8841666667,N,Benin Burkina Faso Niger,bj bf ne
+2094,1504,Stećci Medieval Tombstone Graveyards,0,17.9240527778,43.0922138889,C,Bosnia and Herzegovina Croatia Serbia Montenegro,ba hr rs me
+1920,1380,Sangha Trinational,0,16.5541666667,2.6094444444,N,Cameroon Central African Republic Congo,cm cf cg
+78,72,Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek,0,-140.9919722,61.19758333,N,Canada United States of America,ca us
+407,354,Waterton Glacier International Peace Park,0,-113.9041667,48.99605556,N,Canada United States of America,ca us
+1985,1442,Silk Roads: the Routes Network of Chang'an-Tianshan Corridor,0,108.8572222222,34.3044444444,C,China Kazakhstan Kyrgyzstan,cn kz kg
+226,205,Talamanca Range-La Amistad Reserves / La Amistad National Park,0,-82.93880556,9.407083333,N,Costa Rica Panama,cr pa
+173,155,Mount Nimba Strict Nature Reserve,1,-8.39097,7.60318,N,Côte d'Ivoire Guinea,ci gn
+2162,1533,Venetian Works of Defence between the 16th and 17th Centuries: <em>Stato da Terra</em> – Western <em>Stato da Mar</em>,0,9.6636111111,45.7033333333,C,Croatia Italy Montenegro,hr it me
+2267,1478,Erzgebirge/Krušnohoří Mining Region,0,12.8373444444,50.4065277778,C,Czechia Germany,cz de
+1967,1314,Wadden Sea,0,8.5561111111,53.5286111111,N,Denmark Germany Netherlands,dk de nl
+1050,898,High Coast / Kvarken Archipelago,0,21.3,63.3,N,Finland Sweden,fi se
+915,773,Pyrénées - Mont Perdu,0,-0.0005,42.68542,C/N,France Spain,fr es
+1403,1226,Stone Circles of Senegambia,0,-15.5225,13.6911111111,C,Gambia (the) Senegal,gm sn
+1307,1127,Muskauer Park / Park Mużakowski,0,14.72644444,51.57930556,C,Germany Poland,de pl
+1539,430,Frontiers of the Roman Empire,0,-2.601,54.9926111111,C,Germany United Kingdom of Great Britain and Northern Ireland,de gb
+2114,91,Historic Centre of Rome the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura,0,12.49230556,41.89022222,C,Holy See Italy,va it
+1624,725,Caves of Aggtelek Karst and Slovak Karst,0,20.48687,48.47573,N,Hungary Slovakia,hu sk
+1643,1090,Monte San Giorgio,0,8.9138888889,45.8888888889,N,Italy Switzerland,it ch
+1503,1276,Rhaetian Railway in the Albula / Bernina Landscapes,0,9.8463888889,46.4983333333,C,Italy Switzerland,it ch
+2079,1490,Western Tien-Shan,0,0,0,N,Kazakhstan Kyrgyzstan Uzbekistan,kz kg uz
+1885,985,Maloti-Drakensberg Park,0,29.1230555556,-29.7652777778,C/N,Lesotho South Africa,ls za
+1158,994,Curonian Spit,0,20.96239,55.27458,C,Lithuania Russian Federation,lt ru
+1894,1424,Wooden <em>Tserkvas</em> of the Carpathian Region in Poland and Ukraine,0,21.0322222222,49.5338888889,C,Poland Ukraine,pl ua
+1642,866,Prehistoric Rock Art Sites in the Côa Valley and Siega Verde,0,-6.6611111111,40.6975,C,Portugal Spain,pt es
+909,769,Uvs Nuur Basin,0,92.71972222,50.275,N,Russian Federation Mongolia,ru mn
+2150,1448,Landscapes of Dauria,0,115.4254444444,49.9302222222,N,Russian Federation Mongolia,ru mn
+1841,1313,Heritage of Mercury. Almadén and Idrija,0,-4.8388888889,38.7752777778,C,Slovenia Spain,si es
+593,509,Mosi-oa-Tunya / Victoria Falls,0,25.85539,-17.92453,N,Zambia Zimbabwe,zm zw

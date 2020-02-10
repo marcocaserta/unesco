@@ -1,0 +1,45 @@
+ORIENTEERING - THE UNESCO CHALLENGE
+===================================
+
+Author : Marco Caserta
+email  : marco dot caserta at ie dot edu
+date   : 07.02.2020
+---------------------------------------
+
+This directory includes the code used to solve the challenge, along with the
+needed documentation. Please:
+
+* read the summary.pdf file (available in this folder) for an overview of the
+  project, the algorithm, and the rationale behind the choices made.
+* read the html documentation under docs/HTML for a detailed presentation of
+  the code structure, the data structure, and other issues related to the
+  implementation.
+
+The code can be run using:
+
+> java -jar unesco.jar
+
+This will run the code with the default options (the home site is London, and
+the algorithm is in "deterministic" mode.) Use the flag "-h" to explore how to
+change the command line options. For example, to define a location, use:
+
+> java -jar unesco.jar -l <latitude> -L <longitude> -s <stochastic>
+
+
+UNITTESTS
+
+Unittests were run using Junit4.12. The pool of tests have been divided in two
+parts:
+
+* tests of the evaluation functions (TestFunctionsCorrectness)
+* tests of the feasibility of the final solution (TestSolCorrectness)
+
+In addition, a number of assert() have been used during the development of the
+code. These are not active in the current version.
+
+NOTE: 
+-----
+If the linking of JUnit gives problems, please remove the reference to the
+unittests and try again. More specifically, you will need to remove all the
+import org.junit.* in Orienteering.java along with the two unittests in the
+main (look for references to UNITTEST # 1 and UNITTEST # 2 in the main.)
