@@ -1,0 +1,16 @@
+\form#0:$\textbf{x} = ( 0, 0) $
+\form#1:$\textbf{x}$
+\form#2:\[\sigma_{ij} = \frac{\Delta z_i}{\Delta t_{ij}} \]
+\form#3:$\Delta z_i$
+\form#4:$i^{th}$
+\form#5:$\Delta t_{ij}$
+\form#6:$i$
+\form#7:$j$
+\form#8:\[ \textbf{x} = (\ldots, p_j, j, n_j, \ldots) \]
+\form#9:$p_j$
+\form#10:$n_j$
+\form#11:$k$
+\form#12:$\Delta_{kj}$
+\form#13:$\Delta t_{kj}$
+\form#14:\[ |n_C - n_N | > n_{MIX} + 1 \]
+\form#15:$ \{1,\ldots, n-1\}$

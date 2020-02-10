@@ -1,0 +1,346 @@
+\section{Orienteering Class Reference}
+\label{classOrienteering}\index{Orienteering@{Orienteering}}
+
+
+Project Main Class.  
+
+
+\subsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static void \textbf{ main} (String[$\,$] args)
+\begin{DoxyCompactList}\small\item\em Main Algorithm. \end{DoxyCompactList}\item 
+static void \textbf{ compute\+Distances} (double[$\,$][$\,$] \textbf{ time\+Matrix})
+\begin{DoxyCompactList}\small\item\em Compute distance matrix using haversine function. \end{DoxyCompactList}\item 
+static void \textbf{ insertion\+Heuristic} (Solution route)
+\begin{DoxyCompactList}\small\item\em Greedy construction of a solution via insertion. \end{DoxyCompactList}\item 
+static boolean \textbf{ two\+Opt\+Heuristic} (Solution route)
+\begin{DoxyCompactList}\small\item\em 2-\/\+Opt move\+: One site from out\+Set moves in and one site from in\+Set is out. \end{DoxyCompactList}\item 
+static boolean \textbf{ repair\+Heuristic} (Solution route)
+\begin{DoxyCompactList}\small\item\em Repair current solution to balance number of C and N. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Static Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+static Random \textbf{ random}
+\begin{DoxyCompactList}\small\item\em random number generator \end{DoxyCompactList}\item 
+static double \textbf{ latitude} = 51.\+533241
+\begin{DoxyCompactList}\small\item\em Latitude Home point. \end{DoxyCompactList}\item 
+static double \textbf{ longitude} = -\/0.\+104839
+\item 
+static int \textbf{ stochastic} = 0
+\begin{DoxyCompactList}\small\item\em Longitude Home point. \end{DoxyCompactList}\item 
+static int \textbf{ home} = 0
+\begin{DoxyCompactList}\small\item\em default id of H\+O\+ME node \end{DoxyCompactList}\item 
+static int \textbf{ n\+Sites} = 0
+\item 
+static Array\+List$<$ Record $>$ \textbf{ Data\+Frame} = new Array\+List$<$Record$>$()
+\item 
+static double [$\,$] \textbf{ lat}
+\begin{DoxyCompactList}\small\item\em latitude of each site \end{DoxyCompactList}\item 
+static double [$\,$] \textbf{ lon}
+\begin{DoxyCompactList}\small\item\em longitude of each site \end{DoxyCompactList}\item 
+static int [$\,$] \textbf{ danger}
+\begin{DoxyCompactList}\small\item\em whether a site is endangered (1) or not (0) \end{DoxyCompactList}\item 
+static String [$\,$] \textbf{ country}
+\begin{DoxyCompactList}\small\item\em country iso code of each site \end{DoxyCompactList}\item 
+static String [$\,$] \textbf{ category}
+\begin{DoxyCompactList}\small\item\em category (C, N, or C/N) of each site \end{DoxyCompactList}\item 
+static double [$\,$][$\,$] \textbf{ time\+Matrix}
+\begin{DoxyCompactList}\small\item\em n\+Sites x n\+Sites travel time matrix \end{DoxyCompactList}\item 
+static Solution \textbf{ best\+Route} = new Solution(\textbf{ home}, \textbf{ n\+Sites})
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Project Main Class. 
+
+This code solves a variant of the \doxyref{Orienteering}{p.}{classOrienteering} problem. A thorough presentation of the model is found in the document {\ttfamily summary.\+pdf} under the folder docs/summary. please, have a look at that document to find a description of the algorithm.
+
+This class implements the four heuristics of the Iterative Local Search algorithm, namely\+: 
+\begin{DoxyItemize}
+\item the \doxyref{insertion\+Heuristic()}{p.}{classOrienteering_a65e8faf9502f34a2579a9c20752a78fa} 
+\item the \doxyref{two\+Opt\+Heuristic()}{p.}{classOrienteering_a81ea2abca0ac9a3be512503c59019b2b} 
+\item the \doxyref{repair\+Heuristic()}{p.}{classOrienteering_a62fc20d31c55b880318aa8a363c846c7} 
+\item the random\+Remove\+One() 
+\end{DoxyItemize}
+
+\subsection{Member Function Documentation}
+\mbox{\label{classOrienteering_a4013914d9ed76e676b9c8cdd08cf9517}} 
+\index{Orienteering@{Orienteering}!compute\+Distances@{compute\+Distances}}
+\index{compute\+Distances@{compute\+Distances}!Orienteering@{Orienteering}}
+\subsubsection{compute\+Distances()}
+{\footnotesize\ttfamily static void Orienteering.\+compute\+Distances (\begin{DoxyParamCaption}\item[{double}]{time\+Matrix[$\,$][$\,$] }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [static]}}
+
+
+
+Compute distance matrix using haversine function. 
+
+This function return the time\+Matrix matrix. The matrix is triangular. However, we keep here the full matrix, for ease of access.
+
+N\+O\+TE\+: This is not a distance matrix. The values are travel times across points, since the distance in km is divided by the travel speed (in km/minute).
+
+Currently, we have that the travel speed is 80km/h, i.\+e., 80/60 km/min. \begin{DoxySeeAlso}{See also}
+\doxyref{Haversine\+Distance()}{p.}{classHaversineDistance} 
+\end{DoxySeeAlso}
+
+
+References Haversine\+Distance.\+dist(), and n\+Sites.
+
+
+
+Referenced by main().
+
+\mbox{\label{classOrienteering_a65e8faf9502f34a2579a9c20752a78fa}} 
+\index{Orienteering@{Orienteering}!insertion\+Heuristic@{insertion\+Heuristic}}
+\index{insertion\+Heuristic@{insertion\+Heuristic}!Orienteering@{Orienteering}}
+\subsubsection{insertion\+Heuristic()}
+{\footnotesize\ttfamily static void Orienteering.\+insertion\+Heuristic (\begin{DoxyParamCaption}\item[{Solution}]{route }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [static]}}
+
+
+
+Greedy construction of a solution via insertion. 
+
+Starting from a solution of type $\textbf{x} = ( 0, 0) $, where $\textbf{x}$ indicates the home (starting and ending point), we progressively add, in a greedy fashion, the most promising site. The attractiveness of a site is measured using the followinwing score\+: \[\sigma_{ij} = \frac{\Delta z_i}{\Delta t_{ij}} \] where $\Delta z_i$ is the increase in the objective function value associated to the inclusion of the $i^{th}$ site, and $\Delta t_{ij}$ is the increase in time due to the introduction of site $i$ after site $j$ (which is obviously in the current solution.)
+
+Therefore, for each cycle of the greedy heuristic, we determine (i) which candidate should be added to the current solution (if any) and (ii) in which position w.\+r.\+t. the sites in the current solution.
+
+The insertion mechanism is repeated as long as the budget constraint is not violated. The greedy mechanism stops when either no item currently not in the solution fits within the budget limits, or no items are left in the {\ttfamily out\+Set}. 
+
+Referenced by main().
+
+\mbox{\label{classOrienteering_ad51d9911725ce3f8d6d86a33f28f9ce2}} 
+\index{Orienteering@{Orienteering}!main@{main}}
+\index{main@{main}!Orienteering@{Orienteering}}
+\subsubsection{main()}
+{\footnotesize\ttfamily static void Orienteering.\+main (\begin{DoxyParamCaption}\item[{String [$\,$]}]{args }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [static]}}
+
+
+
+Main Algorithm. 
+
+This algorithm implements an Iterative Local Search (I\+LS) heuristic scheme for a variant of the \doxyref{Orienteering}{p.}{classOrienteering} problem. $<$ count nr iterations without improvements
+
+$<$ iteration counter 
+
+References category, compute\+Distances(), country, insertion\+Heuristic(), latitude, longitude, n\+Sites, Read\+C\+S\+V.\+read\+Data(), repair\+Heuristic(), and two\+Opt\+Heuristic().
+
+\mbox{\label{classOrienteering_a62fc20d31c55b880318aa8a363c846c7}} 
+\index{Orienteering@{Orienteering}!repair\+Heuristic@{repair\+Heuristic}}
+\index{repair\+Heuristic@{repair\+Heuristic}!Orienteering@{Orienteering}}
+\subsubsection{repair\+Heuristic()}
+{\footnotesize\ttfamily static boolean Orienteering.\+repair\+Heuristic (\begin{DoxyParamCaption}\item[{Solution}]{route }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [static]}}
+
+
+
+Repair current solution to balance number of C and N. 
+
+The {\itshape balance} constraint is addressed here. The 2-\/\+Opt and the construction heuristic work on a \textquotesingle{}relaxed\textquotesingle{} version of the original problem. The constraint that states that an equal number of sites of type C and N should be visited (where sites of type C/N can be accounted for both ways) has not been considered. Therefore, after any of the two heuristic mechanisms, it is quite possible that the solution is not feasible with respect to the balance constraint.
+
+A repair heuristic is implemented here in two steps\+: We first identify the imbalance. For example, as in the case of the unesco dataset, assume that we have more C than N. We need a repair mechanism when\+: \[ |n_C - n_N | > n_{MIX} + 1 \] In other words, we allow for a maximal discrepancy of 1 site, as opposed to imposing that exactly the same number of sites of the two types are visited. This latter interpretation of the requirement would force the solution to contain an even number of sites (which seems to be too restrictive.) Here, instead, we admit a maximum difference of one site for one of the two categiries. If this interpretation is not acceptable, it suffices to remove one extra site from the solution produced by this function.
+
+
+\begin{DoxyItemize}
+\item Attempt to swap one element from cateogry C currently in in\+Set with one element of category N from out\+Set. We select the one with the best effect on the objective function value (even if negative). 
+\item If the repair mechanism fails, randomly remove one element from in\+Set among those sites with Category C. 
+\end{DoxyItemize}
+
+References category, country, danger, home, latitude, longitude, n\+Sites, random, and time\+Matrix.
+
+
+
+Referenced by main().
+
+\mbox{\label{classOrienteering_a81ea2abca0ac9a3be512503c59019b2b}} 
+\index{Orienteering@{Orienteering}!two\+Opt\+Heuristic@{two\+Opt\+Heuristic}}
+\index{two\+Opt\+Heuristic@{two\+Opt\+Heuristic}!Orienteering@{Orienteering}}
+\subsubsection{two\+Opt\+Heuristic()}
+{\footnotesize\ttfamily static boolean Orienteering.\+two\+Opt\+Heuristic (\begin{DoxyParamCaption}\item[{Solution}]{route }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [static]}}
+
+
+
+2-\/\+Opt move\+: One site from out\+Set moves in and one site from in\+Set is out. 
+
+An Iterative Local Search (I\+LS) approach is used here. We start from an initial solution, typically built via \doxyref{insertion\+Heuristic()}{p.}{classOrienteering_a65e8faf9502f34a2579a9c20752a78fa}. Next, we define a {\bfseries neighborhood} as the set of solutions that can be reached from the incumbent swapping one site in in\+Set with one site from out\+Set. In this Neighborhood, we select the solution, among the feasible ones, that leads to the maximum increase in the objective function value.
+
+At each step of the I\+LS, two cases can arise\+: 
+\begin{DoxyItemize}
+\item An improving solution has been found\+: In this case, we set this solution as incumbent and we draw a neighborhood around the new incumbent. The local search restarts for a new iteration. 
+\item An improving solution has not been found in the current Neighborhood. We could apply a, e.\+g., Variable Neighborhood Search, to increase the neighborhood size around the incumbent and restart with the I\+LS. We did not implement such as scheme. In this version of the code, when an improving solution has not been found, we stop and terminate the 2-\/\+Opt heuristic. 
+\end{DoxyItemize}A classical 2-\/\+Opt move is implemented as follows. Assume a solution of the following type is given\+: \[ \textbf{x} = (\ldots, p_j, j, n_j, \ldots) \] where $j$ has been chosen for exclusion from $\textbf{x}$, and $p_j$ and $n_j$ are the elements preceding and followining $j$, respectively. In addition, assume that element $k$ is selected for insertion.
+
+A move that swaps $j$ with $k$ has the following $\Delta_{kj}$ and the following $\Delta t_{kj}$\+: 
+
+Referenced by main().
+
+
+
+\subsection{Member Data Documentation}
+\mbox{\label{classOrienteering_a28e5e04700cb27effb7dc49ba3f1bd80}} 
+\index{Orienteering@{Orienteering}!best\+Route@{best\+Route}}
+\index{best\+Route@{best\+Route}!Orienteering@{Orienteering}}
+\subsubsection{best\+Route}
+{\footnotesize\ttfamily Solution Orienteering.\+best\+Route = new Solution(\textbf{ home}, \textbf{ n\+Sites})\hspace{0.3cm}{\ttfamily [static]}}
+
+\mbox{\label{classOrienteering_a19d81cf0073191c977a00fd87c7dfc90}} 
+\index{Orienteering@{Orienteering}!category@{category}}
+\index{category@{category}!Orienteering@{Orienteering}}
+\subsubsection{category}
+{\footnotesize\ttfamily String [$\,$] Orienteering.\+category\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+category (C, N, or C/N) of each site 
+
+
+
+Referenced by main(), and repair\+Heuristic().
+
+\mbox{\label{classOrienteering_acf480c15b887b9f0028c799a65913252}} 
+\index{Orienteering@{Orienteering}!country@{country}}
+\index{country@{country}!Orienteering@{Orienteering}}
+\subsubsection{country}
+{\footnotesize\ttfamily String [$\,$] Orienteering.\+country\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+country iso code of each site 
+
+
+
+Referenced by main(), and repair\+Heuristic().
+
+\mbox{\label{classOrienteering_ae20d805b8f2b3ff9803cb36b17896e79}} 
+\index{Orienteering@{Orienteering}!danger@{danger}}
+\index{danger@{danger}!Orienteering@{Orienteering}}
+\subsubsection{danger}
+{\footnotesize\ttfamily int [$\,$] Orienteering.\+danger\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+whether a site is endangered (1) or not (0) 
+
+
+
+Referenced by repair\+Heuristic().
+
+\mbox{\label{classOrienteering_a7b85f6fbd0c09345703dfd9604718b88}} 
+\index{Orienteering@{Orienteering}!Data\+Frame@{Data\+Frame}}
+\index{Data\+Frame@{Data\+Frame}!Orienteering@{Orienteering}}
+\subsubsection{Data\+Frame}
+{\footnotesize\ttfamily Array\+List$<$Record$>$ Orienteering.\+Data\+Frame = new Array\+List$<$Record$>$()\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Referenced by Read\+C\+S\+V.\+read\+Data().
+
+\mbox{\label{classOrienteering_a60482c3e55c9d16a72fc4d004ce0350c}} 
+\index{Orienteering@{Orienteering}!home@{home}}
+\index{home@{home}!Orienteering@{Orienteering}}
+\subsubsection{home}
+{\footnotesize\ttfamily int Orienteering.\+home = 0\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+default id of H\+O\+ME node 
+
+
+
+Referenced by repair\+Heuristic().
+
+\mbox{\label{classOrienteering_a5752dcbe4576ff567f5d4a0b73f99a92}} 
+\index{Orienteering@{Orienteering}!lat@{lat}}
+\index{lat@{lat}!Orienteering@{Orienteering}}
+\subsubsection{lat}
+{\footnotesize\ttfamily double [$\,$] Orienteering.\+lat\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+latitude of each site 
+
+\mbox{\label{classOrienteering_a6d55ef5ea9f8b9f491c864a486e2e6bc}} 
+\index{Orienteering@{Orienteering}!latitude@{latitude}}
+\index{latitude@{latitude}!Orienteering@{Orienteering}}
+\subsubsection{latitude}
+{\footnotesize\ttfamily double Orienteering.\+latitude = 51.\+533241\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Latitude Home point. 
+
+
+
+Referenced by main(), and repair\+Heuristic().
+
+\mbox{\label{classOrienteering_ab4e713118c939e6fa814e6d92e49591f}} 
+\index{Orienteering@{Orienteering}!lon@{lon}}
+\index{lon@{lon}!Orienteering@{Orienteering}}
+\subsubsection{lon}
+{\footnotesize\ttfamily double [$\,$] Orienteering.\+lon\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+longitude of each site 
+
+\mbox{\label{classOrienteering_aec93ccaed1f1c5ebd5cc5c88c00bb7c8}} 
+\index{Orienteering@{Orienteering}!longitude@{longitude}}
+\index{longitude@{longitude}!Orienteering@{Orienteering}}
+\subsubsection{longitude}
+{\footnotesize\ttfamily double Orienteering.\+longitude = -\/0.\+104839\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Referenced by main(), and repair\+Heuristic().
+
+\mbox{\label{classOrienteering_a303d00f5824339ce3f520ae3cb8e8091}} 
+\index{Orienteering@{Orienteering}!n\+Sites@{n\+Sites}}
+\index{n\+Sites@{n\+Sites}!Orienteering@{Orienteering}}
+\subsubsection{n\+Sites}
+{\footnotesize\ttfamily int Orienteering.\+n\+Sites = 0\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Referenced by compute\+Distances(), main(), and repair\+Heuristic().
+
+\mbox{\label{classOrienteering_a8ca880417874fe437adc696cc827e076}} 
+\index{Orienteering@{Orienteering}!random@{random}}
+\index{random@{random}!Orienteering@{Orienteering}}
+\subsubsection{random}
+{\footnotesize\ttfamily Random Orienteering.\+random\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+random number generator 
+
+
+
+Referenced by repair\+Heuristic().
+
+\mbox{\label{classOrienteering_ae93f0969c413699acce684e877197c54}} 
+\index{Orienteering@{Orienteering}!stochastic@{stochastic}}
+\index{stochastic@{stochastic}!Orienteering@{Orienteering}}
+\subsubsection{stochastic}
+{\footnotesize\ttfamily int Orienteering.\+stochastic = 0\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Longitude Home point. 
+
+set to 1 if stochastic, 0 if determ \mbox{\label{classOrienteering_a96a8512314c8a637f9afd8b32192112b}} 
+\index{Orienteering@{Orienteering}!time\+Matrix@{time\+Matrix}}
+\index{time\+Matrix@{time\+Matrix}!Orienteering@{Orienteering}}
+\subsubsection{time\+Matrix}
+{\footnotesize\ttfamily double [$\,$][$\,$] Orienteering.\+time\+Matrix\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+n\+Sites x n\+Sites travel time matrix 
+
+
+
+Referenced by repair\+Heuristic().
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+src/\textbf{ Orienteering.\+java}\end{DoxyCompactItemize}

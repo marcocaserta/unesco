@@ -1,0 +1,79 @@
+\section{orienteering.\+pk.\+Haversine\+Distance Class Reference}
+\label{classorienteering_1_1pk_1_1HaversineDistance}\index{orienteering.\+pk.\+Haversine\+Distance@{orienteering.\+pk.\+Haversine\+Distance}}
+
+
+Implementation Haversine Distance Algorithm between two points.  
+
+
+\subsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static double \textbf{ dist} (double lat1, double lon1, double lat2, double lon2)
+\end{DoxyCompactItemize}
+\subsection*{Static Private Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static Double \textbf{ to\+Rad} (Double value)
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Implementation Haversine Distance Algorithm between two points. 
+
+\begin{DoxySeeAlso}{See also}
+{\tt See source here.} 
+\begin{DoxyItemize}
+\item R = earth’s radius (mean radius = 6,371km) 
+\item Δlat = lat2− lat1 
+\item Δlong = long2− long1 
+\item a = sin²(Δlat/2) + cos(lat1).cos(lat2).sin²(Δlong/2) 
+\item c = 2.\+atan2(√a, √(1−a)) 
+\item d = R.\+c 
+\end{DoxyItemize}
+\end{DoxySeeAlso}
+
+\begin{DoxyParams}{Parameters}
+{\em lat1} & \+: latitude point 1 \\
+\hline
+{\em lon1} & \+: longitude point 1 \\
+\hline
+{\em lat2} & \+: latitude point 2 \\
+\hline
+{\em lon2} & \+: latitude point 2\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+distance\+: distance in km between the two points 
+\end{DoxyReturn}
+
+
+\subsection{Member Function Documentation}
+\mbox{\label{classorienteering_1_1pk_1_1HaversineDistance_a60b5cb0ee086f309af093e054dde300f}} 
+\index{orienteering\+::pk\+::\+Haversine\+Distance@{orienteering\+::pk\+::\+Haversine\+Distance}!dist@{dist}}
+\index{dist@{dist}!orienteering\+::pk\+::\+Haversine\+Distance@{orienteering\+::pk\+::\+Haversine\+Distance}}
+\subsubsection{dist()}
+{\footnotesize\ttfamily static double orienteering.\+pk.\+Haversine\+Distance.\+dist (\begin{DoxyParamCaption}\item[{double}]{lat1,  }\item[{double}]{lon1,  }\item[{double}]{lat2,  }\item[{double}]{lon2 }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [static]}}
+
+
+
+References orienteering.\+pk.\+Haversine\+Distance.\+to\+Rad().
+
+
+
+Referenced by orienteering.\+pk.\+Orienteering.\+compute\+Distances().
+
+\mbox{\label{classorienteering_1_1pk_1_1HaversineDistance_a7e850e2fc6c49dec5dc1c36c2e9dff75}} 
+\index{orienteering\+::pk\+::\+Haversine\+Distance@{orienteering\+::pk\+::\+Haversine\+Distance}!to\+Rad@{to\+Rad}}
+\index{to\+Rad@{to\+Rad}!orienteering\+::pk\+::\+Haversine\+Distance@{orienteering\+::pk\+::\+Haversine\+Distance}}
+\subsubsection{to\+Rad()}
+{\footnotesize\ttfamily static Double orienteering.\+pk.\+Haversine\+Distance.\+to\+Rad (\begin{DoxyParamCaption}\item[{Double}]{value }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [static]}, {\ttfamily [private]}}
+
+
+
+Referenced by orienteering.\+pk.\+Haversine\+Distance.\+dist().
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+src/\textbf{ Haversine\+Distance.\+java}\end{DoxyCompactItemize}
